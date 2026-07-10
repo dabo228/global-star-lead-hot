@@ -1,0 +1,1232 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>全球星榜潜客 HOT</title>
+  <style>
+    :root {
+      --paper: #f7f3ea;
+      --paper-2: #eee6d8;
+      --ink: #1d2528;
+      --muted: #66706d;
+      --line: rgba(29, 37, 40, .16);
+      --teal: #007c74;
+      --blue: #2458a6;
+      --red: #b3392e;
+      --amber: #b87916;
+      --green: #33875a;
+      --white: #fffaf0;
+      --shadow: 0 18px 55px rgba(45, 39, 28, .13);
+      --radius: 8px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        linear-gradient(90deg, rgba(29,37,40,.035) 1px, transparent 1px) 0 0 / 24px 24px,
+        linear-gradient(0deg, rgba(29,37,40,.03) 1px, transparent 1px) 0 0 / 24px 24px,
+        radial-gradient(circle at 12% 18%, rgba(0,124,116,.13), transparent 26%),
+        radial-gradient(circle at 86% 8%, rgba(179,57,46,.12), transparent 24%),
+        var(--paper);
+      font-family: "Noto Serif SC", "Source Han Serif SC", "Microsoft YaHei", serif;
+      min-height: 100vh;
+      letter-spacing: 0;
+    }
+
+    button,
+    input,
+    select {
+      font: inherit;
+      letter-spacing: 0;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    .shell {
+      width: min(1480px, calc(100vw - 40px));
+      margin: 0 auto;
+      padding: 28px 0 42px;
+    }
+
+    .topbar {
+      display: grid;
+      grid-template-columns: minmax(280px, 1.1fr) minmax(320px, .9fr);
+      gap: 18px;
+      align-items: stretch;
+      margin-bottom: 18px;
+    }
+
+    .masthead {
+      background: rgba(255, 250, 240, .84);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 24px 26px 20px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .masthead::after {
+      content: "";
+      position: absolute;
+      inset: auto 18px 16px auto;
+      width: 130px;
+      height: 130px;
+      border: 1px solid rgba(0, 124, 116, .35);
+      transform: rotate(16deg);
+      opacity: .32;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--teal);
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+
+    .eyebrow::before {
+      content: "";
+      width: 9px;
+      height: 9px;
+      background: var(--teal);
+      border-radius: 50%;
+      box-shadow: 16px 0 0 var(--amber), 32px 0 0 var(--red);
+    }
+
+    h1 {
+      margin: 10px 0 8px;
+      font-size: clamp(34px, 5vw, 70px);
+      line-height: .96;
+      font-weight: 900;
+      max-width: 820px;
+    }
+
+    .subtitle {
+      margin: 0;
+      max-width: 760px;
+      color: var(--muted);
+      font-size: 16px;
+      line-height: 1.75;
+    }
+
+    .brief {
+      background: var(--ink);
+      color: var(--white);
+      border-radius: var(--radius);
+      padding: 20px;
+      display: grid;
+      grid-template-rows: auto 1fr;
+      min-height: 220px;
+      box-shadow: var(--shadow);
+    }
+
+    .brief-title {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid rgba(255,250,240,.18);
+    }
+
+    .brief-title strong {
+      font-size: 18px;
+    }
+
+    .brief-title span {
+      color: rgba(255,250,240,.68);
+      font-size: 13px;
+      white-space: nowrap;
+    }
+
+    .brief-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      align-content: end;
+      margin-top: 18px;
+    }
+
+    .metric {
+      min-height: 96px;
+      border: 1px solid rgba(255,250,240,.16);
+      border-radius: var(--radius);
+      padding: 14px;
+      background: rgba(255,250,240,.055);
+    }
+
+    .metric .num {
+      display: block;
+      font-size: 34px;
+      font-weight: 900;
+      line-height: 1;
+    }
+
+    .metric .label {
+      display: block;
+      margin-top: 9px;
+      color: rgba(255,250,240,.7);
+      font-size: 13px;
+      line-height: 1.35;
+    }
+
+    .mode-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      margin-bottom: 12px;
+      padding: 10px 12px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(255,250,240,.78);
+    }
+
+    .mode-switch {
+      display: inline-flex;
+      gap: 6px;
+      padding: 4px;
+      border-radius: 8px;
+      background: rgba(29,37,40,.07);
+    }
+
+    .mode-btn {
+      border: 0;
+      border-radius: 6px;
+      padding: 10px 16px;
+      color: var(--muted);
+      background: transparent;
+      cursor: pointer;
+      font-weight: 800;
+    }
+
+    .mode-btn.active {
+      color: var(--white);
+      background: var(--teal);
+      box-shadow: 0 6px 18px rgba(0,124,116,.18);
+    }
+
+    .mode-count {
+      display: inline-grid;
+      place-items: center;
+      min-width: 24px;
+      height: 24px;
+      margin-left: 6px;
+      padding: 0 7px;
+      border-radius: 999px;
+      background: rgba(255,255,255,.2);
+      font-size: 12px;
+    }
+
+    .mode-btn:not(.active) .mode-count {
+      background: rgba(29,37,40,.09);
+    }
+
+    .mode-note {
+      margin: 0;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.55;
+      text-align: right;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1.2fr repeat(3, minmax(130px, .55fr));
+      gap: 10px;
+      margin-bottom: 18px;
+      background: rgba(255,250,240,.74);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 12px;
+      box-shadow: 0 10px 32px rgba(45, 39, 28, .08);
+      position: sticky;
+      top: 10px;
+      z-index: 5;
+      backdrop-filter: blur(10px);
+    }
+
+    .search,
+    select {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--white);
+      color: var(--ink);
+      padding: 12px 13px;
+      min-height: 46px;
+      outline: none;
+    }
+
+    .search:focus,
+    select:focus {
+      border-color: rgba(0, 124, 116, .55);
+      box-shadow: 0 0 0 3px rgba(0,124,116,.11);
+    }
+
+    .reset-btn {
+      border: 1px solid var(--ink);
+      background: var(--ink);
+      color: var(--white);
+      border-radius: 6px;
+      min-height: 46px;
+      cursor: pointer;
+    }
+
+    .reset-btn:hover {
+      background: #324044;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 340px;
+      gap: 18px;
+      align-items: start;
+    }
+
+    .lead-grid {
+      display: grid;
+      gap: 12px;
+    }
+
+    .lead-card {
+      background: rgba(255, 250, 240, .88);
+      border: 1px solid var(--line);
+      border-left: 7px solid var(--teal);
+      border-radius: var(--radius);
+      box-shadow: 0 14px 36px rgba(45, 39, 28, .09);
+      padding: 18px;
+      display: grid;
+      grid-template-columns: 138px minmax(0, 1fr);
+      gap: 18px;
+      transition: transform .18s ease, box-shadow .18s ease;
+    }
+
+    .lead-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 18px 42px rgba(45, 39, 28, .13);
+    }
+
+    .lead-card[data-confidence="高"] {
+      border-left-color: var(--green);
+    }
+
+    .lead-card[data-confidence="中"] {
+      border-left-color: var(--amber);
+    }
+
+    .lead-card[data-confidence="低"] {
+      border-left-color: var(--red);
+    }
+
+    .lead-card.compact {
+      grid-template-columns: 112px minmax(0, 1fr);
+      padding: 14px 16px;
+    }
+
+    .lead-card.compact .score {
+      width: 68px;
+      height: 68px;
+      font-size: 25px;
+    }
+
+    .lead-card.compact .opportunity,
+    .lead-card.compact .talk {
+      display: none;
+    }
+
+    .lead-card.compact .follow {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 10px;
+    }
+
+    .fresh-pill {
+      border-color: rgba(0,124,116,.28);
+      color: var(--teal);
+      background: rgba(0,124,116,.08);
+    }
+
+    .stamp {
+      border-right: 1px solid var(--line);
+      padding-right: 18px;
+      display: grid;
+      align-content: start;
+      gap: 12px;
+    }
+
+    .score {
+      display: grid;
+      place-items: center;
+      width: 86px;
+      height: 86px;
+      border: 2px solid currentColor;
+      border-radius: 50%;
+      color: var(--teal);
+      font-size: 30px;
+      font-weight: 900;
+      background: rgba(0,124,116,.06);
+    }
+
+    .score.high {
+      color: var(--green);
+      background: rgba(51,135,90,.08);
+    }
+
+    .score.mid {
+      color: var(--amber);
+      background: rgba(184,121,22,.08);
+    }
+
+    .score.low {
+      color: var(--red);
+      background: rgba(179,57,46,.08);
+    }
+
+    .tagstack {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      min-height: 26px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 4px 9px;
+      font-size: 12px;
+      color: var(--muted);
+      background: rgba(255,255,255,.45);
+      white-space: nowrap;
+    }
+
+    .pill.strong {
+      color: var(--ink);
+      border-color: rgba(29,37,40,.32);
+      font-weight: 700;
+    }
+
+    .card-main {
+      display: grid;
+      gap: 12px;
+    }
+
+    .card-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: start;
+    }
+
+    .card-title {
+      margin: 0;
+      font-size: 23px;
+      line-height: 1.28;
+      font-weight: 900;
+    }
+
+    .date {
+      color: var(--muted);
+      font-size: 13px;
+      white-space: nowrap;
+      padding-top: 6px;
+    }
+
+    .summary {
+      margin: 0;
+      color: #334044;
+      line-height: 1.72;
+      font-size: 15px;
+    }
+
+    .opportunity {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+    }
+
+    .info-box {
+      border: 1px dashed rgba(29,37,40,.25);
+      border-radius: 7px;
+      padding: 10px;
+      background: rgba(247,243,234,.64);
+      min-height: 92px;
+    }
+
+    .info-label {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      margin-bottom: 6px;
+    }
+
+    .info-value {
+      display: block;
+      font-size: 14px;
+      line-height: 1.55;
+      font-weight: 700;
+    }
+
+    .follow {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 12px;
+      align-items: center;
+      padding-top: 3px;
+    }
+
+    .talk {
+      margin: 0;
+      border-left: 3px solid rgba(0,124,116,.44);
+      padding: 8px 0 8px 12px;
+      color: #334044;
+      line-height: 1.65;
+      font-size: 14px;
+    }
+
+    .source-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 38px;
+      padding: 9px 12px;
+      border-radius: 6px;
+      background: var(--ink);
+      color: var(--white);
+      text-decoration: none;
+      font-size: 13px;
+      white-space: nowrap;
+    }
+
+    .source-link:hover {
+      background: #324044;
+    }
+
+    .side {
+      display: grid;
+      gap: 14px;
+      position: sticky;
+      top: 86px;
+    }
+
+    .panel {
+      background: rgba(255,250,240,.86);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 16px;
+      box-shadow: 0 14px 36px rgba(45, 39, 28, .08);
+    }
+
+    .panel h2 {
+      margin: 0 0 12px;
+      font-size: 17px;
+    }
+
+    .rank-list {
+      display: grid;
+      gap: 9px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .rank-list li {
+      display: grid;
+      grid-template-columns: 28px 1fr auto;
+      gap: 8px;
+      align-items: center;
+      min-height: 38px;
+      border-bottom: 1px solid rgba(29,37,40,.1);
+      padding-bottom: 8px;
+      font-size: 14px;
+    }
+
+    .rank-list li:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .rank-num {
+      width: 26px;
+      height: 26px;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: var(--ink);
+      color: var(--white);
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .count-badge {
+      color: var(--teal);
+      font-weight: 900;
+    }
+
+    .logic-grid {
+      display: grid;
+      gap: 10px;
+    }
+
+    .logic-step {
+      display: grid;
+      grid-template-columns: 30px 1fr;
+      gap: 10px;
+      align-items: start;
+      font-size: 13px;
+      line-height: 1.55;
+      border-bottom: 1px solid rgba(29,37,40,.1);
+      padding-bottom: 10px;
+    }
+
+    .logic-step:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .logic-mark {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      color: var(--white);
+      background: var(--teal);
+      font-weight: 900;
+      font-size: 12px;
+    }
+
+    .signal-cloud {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .signal-chip {
+      border: 1px solid rgba(29,37,40,.18);
+      border-radius: 6px;
+      padding: 8px 10px;
+      background: rgba(247,243,234,.72);
+      font-size: 13px;
+      line-height: 1.35;
+    }
+
+    .empty {
+      display: none;
+      background: rgba(255,250,240,.86);
+      border: 1px dashed rgba(29,37,40,.3);
+      border-radius: var(--radius);
+      padding: 34px;
+      text-align: center;
+      color: var(--muted);
+    }
+
+    .footer-note {
+      margin: 18px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 1080px) {
+      .topbar,
+      .layout,
+      .controls {
+        grid-template-columns: 1fr;
+      }
+
+      .mode-bar {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .mode-note {
+        text-align: left;
+      }
+
+      .side {
+        position: static;
+      }
+
+      .opportunity {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 720px) {
+      .shell {
+        width: min(100% - 24px, 1480px);
+        padding-top: 14px;
+      }
+
+      .brief-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .lead-card {
+        grid-template-columns: 1fr;
+      }
+
+      .stamp {
+        border-right: none;
+        border-bottom: 1px solid var(--line);
+        padding-right: 0;
+        padding-bottom: 14px;
+        grid-template-columns: auto 1fr;
+        align-items: center;
+      }
+
+      .follow {
+        grid-template-columns: 1fr;
+      }
+
+      .card-head {
+        display: grid;
+      }
+
+      .date {
+        white-space: normal;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header class="topbar">
+      <section class="masthead">
+        <span class="eyebrow">Global Star Ranking Lead Radar</span>
+        <h1>全球星榜潜客 HOT</h1>
+        <p class="subtitle">把公开平台里的传播节点转成可跟进线索：销售看客户，营销看内容角度，媒介看资源准备。</p>
+      </section>
+      <aside class="brief">
+        <div class="brief-title">
+          <strong>自动更新中</strong>
+          <span id="runDate">2026-07-06</span>
+        </div>
+        <div class="brief-grid">
+          <div class="metric">
+            <span class="num" id="metricTotal">8</span>
+            <span class="label" id="metricTotalLabel">当前结果</span>
+          </div>
+          <div class="metric">
+            <span class="num" id="metricHigh">3</span>
+            <span class="label">高可信节点</span>
+          </div>
+          <div class="metric">
+            <span class="num" id="metricSignals">0</span>
+            <span class="label">命中信号</span>
+          </div>
+        </div>
+      </aside>
+    </header>
+
+    <section class="mode-bar" aria-label="内容范围">
+      <div class="mode-switch" role="tablist" aria-label="线索范围">
+        <button class="mode-btn active" id="modeSelected" type="button" role="tab" aria-selected="true">
+          精选线索 <span class="mode-count" id="selectedCount">0</span>
+        </button>
+        <button class="mode-btn" id="modeAll" type="button" role="tab" aria-selected="false">
+          全部动态 <span class="mode-count" id="allCount">0</span>
+        </button>
+      </div>
+      <p class="mode-note" id="modeNote">按机会分、可信度和去重结果选出最值得跟进的线索。</p>
+    </section>
+
+    <section class="controls" aria-label="筛选">
+      <input class="search" id="search" type="search" placeholder="搜索客户、艺人、品牌、城市、节点">
+      <select id="typeFilter" aria-label="线索类型">
+        <option value="全部">全部类型</option>
+      </select>
+      <select id="confidenceFilter" aria-label="可信度">
+        <option value="全部">全部可信度</option>
+        <option value="高">高可信</option>
+        <option value="中">中可信</option>
+        <option value="低">低可信</option>
+      </select>
+      <button class="reset-btn" id="resetBtn" type="button">重置</button>
+    </section>
+
+    <main class="layout">
+      <section>
+        <div class="lead-grid" id="leadGrid"></div>
+        <div class="empty" id="empty">当前筛选没有命中线索。</div>
+      </section>
+
+      <aside class="side">
+        <section class="panel">
+          <h2>机会类型</h2>
+          <ol class="rank-list" id="typeRank"></ol>
+        </section>
+        <section class="panel">
+          <h2>AI HOT 式检索逻辑</h2>
+          <div class="logic-grid">
+            <div class="logic-step"><span class="logic-mark">1</span><span>先定信源：官方公告、票务平台、品牌新闻、后援会、活动媒体、社交讨论分层进入。</span></div>
+            <div class="logic-step"><span class="logic-mark">2</span><span>再抓信号：官宣、定档、开票、生日企划、联名、快闪、招募、数调、认领。</span></div>
+            <div class="logic-step"><span class="logic-mark">3</span><span>然后判机会：这个节点是否需要线下曝光、城市氛围、粉丝打卡、海外传播。</span></div>
+            <div class="logic-step"><span class="logic-mark">4</span><span>最后去重精选：同一事件只保留最权威来源，同时保留次级讨论作为热度证据。</span></div>
+          </div>
+        </section>
+        <section class="panel">
+          <h2>信号词库</h2>
+          <div class="signal-cloud" id="signalCloud"></div>
+          <p class="footer-note">后续可把销售反馈作为人工标注：有用、无效、已跟进、已成交，用来回调权重和阈值。</p>
+        </section>
+      </aside>
+    </main>
+  </div>
+
+  <script>
+    const fallbackLeads = [
+      {
+        title: "何与生日应援征集",
+        type: "粉丝生日应援",
+        confidence: "中",
+        score: 76,
+        date: "8月22日节点",
+        departments: ["销售", "营销"],
+        sourceTier: "T2 后援会信号",
+        stage: "企划征集期",
+        query: "生日应援 征集 招募 企划 生咖",
+        signals: ["生日节点", "志愿者招募", "企划征集", "粉丝组织"],
+        object: "后援会、生日站、粉丝组织",
+        event: "生日应援正在招募志愿者和征集企划，执行班子仍在形成。",
+        opportunity: "可切入城市生日应援组合：商圈屏、交通媒体、主题打卡、公益联动。",
+        next: "看到你们在筹备生日节点，如果城市和形式还没完全确定，我们可以按预算给一版户外应援组合。",
+        source: "https://www.sina.cn/news/detail/5314722489958827.html"
+      },
+      {
+        title: "王俊凯重庆演唱会官宣",
+        type: "演唱会节点",
+        confidence: "高",
+        score: 88,
+        date: "7月18日-19日",
+        departments: ["销售", "媒介", "营销"],
+        sourceTier: "T1 官方/权威媒体",
+        stage: "官宣后热度期",
+        query: "演唱会 官宣 开票 场馆 重庆 粉丝",
+        signals: ["演唱会官宣", "场馆明确", "热度上升", "本地曝光"],
+        object: "粉丝站、品牌合作方、本地商圈、场馆周边商家",
+        event: "重庆站官宣后热度快速上升，地点为重庆华熙生物润百颜 ECM 中心。",
+        opportunity: "场馆周边打卡曝光、城市欢迎屏、粉丝二现场氛围、品牌联动扩散。",
+        next: "如果你们想围绕重庆站做线下氛围，我们可以先整理场馆周边和城市商圈可执行点位。",
+        source: "https://www.cqrb.cn/shishi/2026-07-03/2715523_pc.html"
+      },
+      {
+        title: "王源深圳演唱会节点",
+        type: "演唱会节点",
+        confidence: "高",
+        score: 82,
+        date: "7月19日",
+        departments: ["销售", "媒介"],
+        sourceTier: "T1 权威媒体",
+        stage: "临近执行期",
+        query: "演唱会 深圳 大运中心 粉丝 应援",
+        signals: ["演唱会节点", "城市明确", "时间紧迫", "轻量落地"],
+        object: "粉丝站、深圳本地品牌、场馆周边商家",
+        event: "深圳大运中心体育场开唱，时间近，适合轻量快速落地。",
+        opportunity: "深圳场馆周边、商圈屏、粉丝打卡点、短周期应援曝光。",
+        next: "这个节点时间比较近，如果需要快速落地，我们可以只筛可立即排期的深圳点位。",
+        source: "https://cj.sina.cn/articles/view/7879776328/1d5abd84806801mtgs?froms=ggmp"
+      },
+      {
+        title: "许嵩杭州演唱会",
+        type: "演唱会节点",
+        confidence: "高",
+        score: 84,
+        date: "7月24日-26日",
+        departments: ["销售", "媒介", "营销"],
+        sourceTier: "T1 本地权威媒体",
+        stage: "方案窗口期",
+        query: "杭州 演唱会 奥体中心 巡演 首站",
+        signals: ["演唱会节点", "连续场次", "城市商圈", "巡演延展"],
+        object: "歌迷组织、杭州本地品牌、文旅和商圈合作方",
+        event: "杭州奥体中心体育场连续场次，后续还有巡演延展空间。",
+        opportunity: "杭州大莲花周边媒体、歌迷城市打卡、巡演首站氛围内容。",
+        next: "杭州站还有方案窗口，可以先做一版场馆周边和商圈联动建议。",
+        source: "https://hznews.hangzhou.com.cn/wenti/content/2026-06/18/content_9241378.htm"
+      },
+      {
+        title: "薛之谦鸟巢及杭州多场演唱会",
+        type: "演唱会节点",
+        confidence: "高",
+        score: 91,
+        date: "7月10日-8月16日",
+        departments: ["销售", "营销"],
+        sourceTier: "T1 媒体报道",
+        stage: "城市流量期",
+        query: "鸟巢 演唱会 多场 杭州 品牌 联动",
+        signals: ["多场演唱会", "城市级流量", "消费场景", "品牌联动"],
+        object: "品牌方、本地商圈、文旅合作方、渠道客户",
+        event: "北京鸟巢 12 场、杭州 10 场，具备城市级流量。",
+        opportunity: "本地消费品牌联动、餐饮住宿引流、城市欢迎屏、场馆周边曝光。",
+        next: "这个更适合品牌联动，不只看粉丝应援，可以找本地消费品牌一起做演唱会流量承接。",
+        source: "https://ent.sina.cn/2026-07-05/detail-inifskfu9286215.d.html?oid=5_stf&vt=4"
+      },
+      {
+        title: "劲仔食品官宣王俊凯全球代言人",
+        type: "品牌代言官宣",
+        confidence: "高",
+        score: 89,
+        date: "7月3日官宣",
+        departments: ["销售", "营销", "媒介"],
+        sourceTier: "T1 品牌官宣/媒体",
+        stage: "代言扩散期",
+        query: "品牌 官宣 全球代言人 快闪 海外",
+        signals: ["代言人官宣", "线下快闪", "海外属性", "品牌预算"],
+        object: "品牌市场部、代理公司、代言人项目组",
+        event: "品牌官宣全球代言人，已有杭州、重庆线下快闪动作。",
+        opportunity: "代言官宣后的城市户外扩散、海外华人区曝光、快闪周边媒体。",
+        next: "看到你们已经有快闪动作，如果需要把代言声量扩到更多城市或海外，我们可以做一版户外扩散方案。",
+        source: "https://k.sina.com.cn/article_7879776328_1d5abd84806801v7cu.html"
+      },
+      {
+        title: "DNF 18 周年 x 阿迪达斯联名快闪",
+        type: "游戏 IP 联名",
+        confidence: "中",
+        score: 74,
+        date: "周年节点",
+        departments: ["销售", "营销"],
+        sourceTier: "T1 行业媒体",
+        stage: "联名活动期",
+        query: "游戏周年 品牌联名 快闪 嘉年华",
+        signals: ["IP 周年", "品牌联名", "三城快闪", "线下活动"],
+        object: "游戏发行方、品牌联名团队、活动执行公司",
+        event: "三城快闪接力，并关联斗鱼嘉年华活动。",
+        opportunity: "游戏周年城市氛围、快闪引流、商圈大屏、活动周边媒体。",
+        next: "游戏 IP 周年和品牌联名适合做城市氛围，可以从快闪城市周边曝光切入。",
+        source: "https://news.17173.com/content/06252026/170031997.shtml"
+      },
+      {
+        title: "剧集《灿如繁星》开播宣发",
+        type: "剧集宣发",
+        confidence: "中",
+        score: 72,
+        date: "7月5日开播",
+        departments: ["销售", "营销"],
+        sourceTier: "T2 媒体/社交热度",
+        stage: "开播宣发期",
+        query: "剧集 定档 开播 街头互动 宣发",
+        signals: ["开播定档", "线下互动", "角色传播", "短周期热度"],
+        object: "片方、平台宣发、主演粉丝组织、代理公司",
+        event: "开播前后已有线上手势舞、线下街头互动和微博角色互动。",
+        opportunity: "开播热度冲榜、主演城市应援、商圈屏、短周期地标曝光。",
+        next: "如果片方还需要线下补热度，可以用一日屏和城市打卡做开播扩散。",
+        source: "https://k.sina.com.cn/article_7879776328_1d5abd84806801we8g.html"
+      }
+    ];
+
+    let selectedLeads = [...fallbackLeads];
+    let allLeads = [...fallbackLeads];
+    let runMeta = {
+      date: "2026-07-06",
+      updatedAtText: "本地样例数据",
+      summary: {
+        selectedTotal: fallbackLeads.length,
+        allTotal: fallbackLeads.length,
+        historyDays: 7
+      }
+    };
+
+    const state = {
+      mode: "selected",
+      search: "",
+      type: "全部",
+      confidence: "全部"
+    };
+
+    const grid = document.querySelector("#leadGrid");
+    const empty = document.querySelector("#empty");
+    const typeFilter = document.querySelector("#typeFilter");
+    const confidenceFilter = document.querySelector("#confidenceFilter");
+    const searchInput = document.querySelector("#search");
+    const modeSelected = document.querySelector("#modeSelected");
+    const modeAll = document.querySelector("#modeAll");
+    const modeNote = document.querySelector("#modeNote");
+
+    const confidenceClass = {
+      "高": "high",
+      "中": "mid",
+      "低": "low"
+    };
+
+    function unique(list) {
+      return [...new Set(list)];
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+
+    function initFilters() {
+      typeFilter.innerHTML = '<option value="全部">全部类型</option>';
+      unique(allLeads.map(item => item.type)).forEach(type => {
+        const option = document.createElement("option");
+        option.value = type;
+        option.textContent = type;
+        typeFilter.appendChild(option);
+      });
+    }
+
+    function currentLeads() {
+      return state.mode === "all" ? allLeads : selectedLeads;
+    }
+
+    function formatCollectedAt(value) {
+      if (!value) return "";
+      try {
+        return new Intl.DateTimeFormat("zh-CN", {
+          timeZone: "Asia/Shanghai",
+          month: "numeric",
+          day: "numeric",
+          hour: "2-digit",
+          minute: "2-digit",
+          hour12: false
+        }).format(new Date(value));
+      } catch {
+        return "";
+      }
+    }
+
+    function isNewToday(lead) {
+      if (!lead.firstSeenAt || !runMeta.date) return false;
+      try {
+        const parts = new Intl.DateTimeFormat("en-CA", {
+          timeZone: "Asia/Shanghai",
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit"
+        }).format(new Date(lead.firstSeenAt));
+        return parts === runMeta.date;
+      } catch {
+        return false;
+      }
+    }
+
+    function matchLead(lead) {
+      const keyword = state.search.trim().toLowerCase();
+      const text = [
+        lead.title,
+        lead.type,
+        lead.date,
+        lead.object,
+        lead.event,
+        lead.opportunity,
+        lead.next,
+        lead.sourceTier,
+        lead.stage,
+        lead.query,
+        (lead.signals || []).join(" "),
+        (lead.departments || []).join(" ")
+      ].join(" ").toLowerCase();
+      return (!keyword || text.includes(keyword))
+        && (state.type === "全部" || lead.type === state.type)
+        && (state.confidence === "全部" || lead.confidence === state.confidence);
+    }
+
+    function renderCards(items) {
+      grid.innerHTML = "";
+      items.forEach(lead => {
+        const card = document.createElement("article");
+        card.className = `lead-card${state.mode === "all" ? " compact" : ""}`;
+        card.dataset.confidence = lead.confidence;
+        const confidence = escapeHtml(lead.confidence);
+        const type = escapeHtml(lead.type);
+        const stage = escapeHtml(lead.stage);
+        const sourceTier = escapeHtml(lead.sourceTier);
+        const title = escapeHtml(lead.title);
+        const date = escapeHtml(lead.date);
+        const event = escapeHtml(lead.event);
+        const opportunity = escapeHtml(lead.opportunity);
+        const object = escapeHtml(lead.object);
+        const signals = escapeHtml((lead.signals || []).join(" / "));
+        const query = escapeHtml(lead.query);
+        const next = escapeHtml(lead.next);
+        const source = escapeHtml(lead.source);
+        const collectedAt = escapeHtml(formatCollectedAt(lead.firstSeenAt));
+        const freshPill = isNewToday(lead) ? '<span class="pill fresh-pill">今日新收录</span>' : "";
+        card.innerHTML = `
+          <aside class="stamp">
+            <div class="score ${confidenceClass[lead.confidence] || "low"}">${escapeHtml(lead.score)}</div>
+            <div class="tagstack">
+              <span class="pill strong">${confidence}可信</span>
+              <span class="pill">${type}</span>
+              <span class="pill">${stage}</span>
+              <span class="pill">${sourceTier}</span>
+              ${freshPill}
+            </div>
+          </aside>
+          <div class="card-main">
+            <div class="card-head">
+              <h2 class="card-title">${title}</h2>
+              <span class="date">${date}${collectedAt ? ` · 收录 ${collectedAt}` : ""}</span>
+            </div>
+            <p class="summary">${event}</p>
+            <div class="opportunity">
+              <div class="info-box">
+                <span class="info-label">客户机会</span>
+                <span class="info-value">${opportunity}</span>
+              </div>
+              <div class="info-box">
+                <span class="info-label">建议跟进对象</span>
+                <span class="info-value">${object}</span>
+              </div>
+              <div class="info-box">
+                <span class="info-label">命中信号</span>
+                <span class="info-value">${signals}</span>
+              </div>
+              <div class="info-box">
+                <span class="info-label">检索关键词</span>
+                <span class="info-value">${query}</span>
+              </div>
+            </div>
+            <div class="follow">
+              <p class="talk">${next}</p>
+              <a class="source-link" href="${source}" target="_blank" rel="noreferrer">查看来源</a>
+            </div>
+          </div>
+        `;
+        grid.appendChild(card);
+      });
+      empty.style.display = items.length ? "none" : "block";
+    }
+
+    function countBy(items, getter) {
+      return items.reduce((acc, item) => {
+        const keys = getter(item);
+        const list = Array.isArray(keys) ? keys : [keys];
+        list.forEach(key => {
+          acc[key] = (acc[key] || 0) + 1;
+        });
+        return acc;
+      }, {});
+    }
+
+    function renderSide(items) {
+      const typeRank = document.querySelector("#typeRank");
+      const typeCounts = Object.entries(countBy(items, lead => lead.type))
+        .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "zh-CN"));
+      typeRank.innerHTML = typeCounts.map(([type, count], index) => `
+        <li>
+          <span class="rank-num">${index + 1}</span>
+          <span>${escapeHtml(type)}</span>
+          <span class="count-badge">${count}</span>
+        </li>
+      `).join("");
+
+      const signalCloud = document.querySelector("#signalCloud");
+      const signalCounts = Object.entries(countBy(items, lead => lead.signals))
+        .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "zh-CN"))
+        .slice(0, 16);
+      signalCloud.innerHTML = signalCounts.map(([signal, count]) => `
+        <span class="signal-chip">${escapeHtml(signal)} <strong>${count}</strong></span>
+      `).join("");
+    }
+
+    function renderMetrics(items) {
+      document.querySelector("#metricTotal").textContent = items.length;
+      document.querySelector("#metricTotalLabel").textContent = state.mode === "all" ? "全部动态结果" : "精选结果";
+      document.querySelector("#metricHigh").textContent = items.filter(item => item.confidence === "高").length;
+      const signals = new Set(items.flatMap(item => item.signals || []));
+      document.querySelector("#metricSignals").textContent = signals.size;
+      document.querySelector("#runDate").textContent = runMeta.updatedAtText || runMeta.date;
+    }
+
+    function render() {
+      const items = currentLeads().filter(matchLead);
+      renderCards(items);
+      renderSide(items);
+      renderMetrics(items);
+      document.querySelector("#selectedCount").textContent = selectedLeads.length;
+      document.querySelector("#allCount").textContent = allLeads.length;
+      modeSelected.classList.toggle("active", state.mode === "selected");
+      modeAll.classList.toggle("active", state.mode === "all");
+      modeSelected.setAttribute("aria-selected", String(state.mode === "selected"));
+      modeAll.setAttribute("aria-selected", String(state.mode === "all"));
+      const sourceHealth = runMeta.summary?.sourceCount
+        ? ` 本轮 ${runMeta.summary.healthySourceCount}/${runMeta.summary.sourceCount} 个信源可用。`
+        : "";
+      modeNote.textContent = state.mode === "selected"
+        ? `按机会分、可信度和去重结果选出最值得跟进的线索。${sourceHealth}`
+        : `保留最近 ${runMeta.summary?.historyDays || 7} 天抓取到的动态，按最新发现时间展示。${sourceHealth}`;
+      empty.textContent = state.mode === "selected" ? "当前筛选没有命中精选线索。" : "当前筛选没有命中动态。";
+    }
+
+    function setMode(mode) {
+      state.mode = mode;
+      render();
+    }
+
+    modeSelected.addEventListener("click", () => setMode("selected"));
+    modeAll.addEventListener("click", () => setMode("all"));
+
+    searchInput.addEventListener("input", event => {
+      state.search = event.target.value;
+      render();
+    });
+
+    typeFilter.addEventListener("change", event => {
+      state.type = event.target.value;
+      render();
+    });
+
+    confidenceFilter.addEventListener("change", event => {
+      state.confidence = event.target.value;
+      render();
+    });
+
+    document.querySelector("#resetBtn").addEventListener("click", () => {
+      state.search = "";
+      state.type = "全部";
+      state.confidence = "全部";
+      searchInput.value = "";
+      typeFilter.value = "全部";
+      confidenceFilter.value = "全部";
+      render();
+    });
+
+    async function loadLeads() {
+      try {
+        const response = await fetch("./潜客HOT数据/lead-hot-data.json?ts=" + Date.now(), { cache: "no-store" });
+        if (!response.ok) throw new Error("数据文件未就绪");
+        const data = await response.json();
+        const selected = Array.isArray(data.selected) ? data.selected : data.leads;
+        const all = Array.isArray(data.allItems) ? data.allItems : selected;
+        if (Array.isArray(selected) && selected.length) {
+          selectedLeads = selected;
+          allLeads = Array.isArray(all) && all.length ? all : selected;
+          runMeta = {
+            date: data.date || runMeta.date,
+            updatedAtText: data.updatedAtText || runMeta.updatedAtText,
+            summary: data.summary || runMeta.summary
+          };
+        }
+      } catch (error) {
+        selectedLeads = [...fallbackLeads];
+        allLeads = [...fallbackLeads];
+      }
+      initFilters();
+      render();
+    }
+
+    loadLeads();
+  </script>
+</body>
+</html>

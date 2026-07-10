@@ -1,0 +1,146 @@
+{
+  "name": "全球星榜潜客 HOT",
+  "timezone": "Asia/Shanghai",
+  "historyDays": 7,
+  "minimumScore": 62,
+  "selectedMinimumScore": 70,
+  "selectedLimit": 30,
+  "allLimit": 500,
+  "outputDir": "docs/潜客HOT数据",
+  "sources": [
+    {
+      "id": "maoyan-show",
+      "name": "猫眼演出",
+      "tier": "T1",
+      "kind": "票务平台",
+      "url": "https://show.maoyan.com/",
+      "followObjects": ["艺人项目方", "粉丝站", "本地商圈", "品牌合作方"]
+    },
+    {
+      "id": "damai",
+      "name": "大麦",
+      "tier": "T1",
+      "kind": "票务平台",
+      "url": "https://www.damai.cn/",
+      "followObjects": ["艺人项目方", "演出主办", "粉丝站", "本地品牌"]
+    },
+    {
+      "id": "showstart",
+      "name": "秀动",
+      "tier": "T1",
+      "kind": "票务平台",
+      "url": "https://www.showstart.com/",
+      "followObjects": ["音乐节主办", "Livehouse 主办", "本地商圈"]
+    },
+    {
+      "id": "bilibili-show",
+      "name": "B站会员购",
+      "tier": "T1",
+      "kind": "二次元/IP活动",
+      "url": "https://show.bilibili.com/",
+      "followObjects": ["IP方", "展会主办", "游戏发行方", "品牌联名团队"]
+    },
+    {
+      "id": "bw",
+      "name": "Bilibili World",
+      "tier": "T1",
+      "kind": "二次元/IP活动",
+      "url": "https://bw.bilibili.com/",
+      "followObjects": ["展会主办", "品牌合作方", "IP合作方"]
+    },
+    {
+      "id": "adquan",
+      "name": "广告门",
+      "tier": "T1.5",
+      "kind": "品牌营销",
+      "url": "https://www.adquan.com/",
+      "followObjects": ["品牌市场部", "代理公司", "公关公司"]
+    },
+    {
+      "id": "socialbeta",
+      "name": "SocialBeta",
+      "tier": "T1.5",
+      "kind": "品牌营销",
+      "url": "https://socialbeta.com/",
+      "followObjects": ["品牌市场部", "代理公司", "内容营销团队"]
+    },
+    {
+      "id": "digitaling",
+      "name": "数英",
+      "tier": "T1.5",
+      "kind": "品牌营销",
+      "url": "https://www.digitaling.com/",
+      "followObjects": ["品牌市场部", "代理公司", "项目执行方"]
+    },
+    {
+      "id": "meihua",
+      "name": "梅花网",
+      "tier": "T1.5",
+      "kind": "品牌营销",
+      "url": "https://www.meihua.info/",
+      "followObjects": ["品牌市场部", "代理公司", "公关公司"]
+    },
+    {
+      "id": "prnasia",
+      "name": "美通社亚洲",
+      "tier": "T1.5",
+      "kind": "品牌公关",
+      "url": "https://www.prnasia.com/",
+      "followObjects": ["品牌市场部", "公关公司", "出海项目团队"]
+    },
+    {
+      "id": "sina-ent",
+      "name": "新浪娱乐",
+      "tier": "T1.5",
+      "kind": "娱乐资讯",
+      "url": "https://ent.sina.com.cn/",
+      "followObjects": ["艺人项目方", "片方", "平台宣发", "粉丝组织"]
+    },
+    {
+      "id": "1905-news",
+      "name": "1905电影网",
+      "tier": "T1.5",
+      "kind": "影视宣发",
+      "url": "https://www.1905.com/news/",
+      "followObjects": ["片方", "发行公司", "平台宣发", "主演项目团队"]
+    }
+  ],
+  "signals": [
+    {
+      "name": "演唱会节点",
+      "type": "演唱会节点",
+      "keywords": ["演唱会", "巡回", "开票", "预售", "场馆", "体育场", "音乐节", "tour", "concert", "tickets"],
+      "weight": 18
+    },
+    {
+      "name": "品牌宣发",
+      "type": "品牌宣发",
+      "keywords": ["品牌", "官宣", "代言", "全球", "出海", "投放", "campaign", "marketing", "广告", "传播"],
+      "weight": 16
+    },
+    {
+      "name": "粉丝生日应援",
+      "type": "粉丝生日应援",
+      "keywords": ["生日", "生贺", "应援", "招募", "企划", "认领", "生日站", "后援会"],
+      "weight": 20
+    },
+    {
+      "name": "二次元/IP活动",
+      "type": "二次元/IP活动",
+      "keywords": ["漫展", "展会", "IP", "国漫", "游戏", "周年", "嘉年华", "同人", "ONLY", "Bilibili", "BW", "BML"],
+      "weight": 15
+    },
+    {
+      "name": "剧集/内容宣发",
+      "type": "剧集宣发",
+      "keywords": ["定档", "开播", "预告", "主演", "角色", "短剧", "剧集", "综艺"],
+      "weight": 12
+    },
+    {
+      "name": "线下活动窗口",
+      "type": "线下活动窗口",
+      "keywords": ["快闪", "打卡", "门店", "商圈", "城市", "线下", "路演", "pop-up", "festival"],
+      "weight": 12
+    }
+  ]
+}

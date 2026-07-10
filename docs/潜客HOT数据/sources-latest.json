@@ -1,0 +1,134 @@
+[
+  {
+    "id": "maoyan-show",
+    "name": "猫眼演出",
+    "tier": "T1",
+    "kind": "票务平台",
+    "url": "https://show.maoyan.com/",
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 43
+  },
+  {
+    "id": "damai",
+    "name": "大麦",
+    "tier": "T1",
+    "kind": "票务平台",
+    "url": "https://www.damai.cn/",
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 1
+  },
+  {
+    "id": "showstart",
+    "name": "秀动",
+    "tier": "T1",
+    "kind": "票务平台",
+    "url": "https://www.showstart.com/",
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 7
+  },
+  {
+    "id": "bilibili-show",
+    "name": "B站会员购",
+    "tier": "T1",
+    "kind": "二次元/IP活动",
+    "url": "https://show.bilibili.com/",
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 1
+  },
+  {
+    "id": "bw",
+    "name": "Bilibili World",
+    "tier": "T1",
+    "kind": "二次元/IP活动",
+    "url": "https://bw.bilibili.com/",
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 1
+  },
+  {
+    "id": "adquan",
+    "name": "广告门",
+    "tier": "T1.5",
+    "kind": "品牌营销",
+    "url": "https://www.adquan.com/",
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 17
+  },
+  {
+    "id": "socialbeta",
+    "name": "SocialBeta",
+    "tier": "T1.5",
+    "kind": "品牌营销",
+    "url": "https://socialbeta.com/",
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 7
+  },
+  {
+    "id": "digitaling",
+    "name": "数英",
+    "tier": "T1.5",
+    "kind": "品牌营销",
+    "url": "https://www.digitaling.com/",
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 0
+  },
+  {
+    "id": "meihua",
+    "name": "梅花网",
+    "tier": "T1.5",
+    "kind": "品牌营销",
+    "url": "https://www.meihua.info/",
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 3
+  },
+  {
+    "id": "prnasia",
+    "name": "美通社亚洲",
+    "tier": "T1.5",
+    "kind": "品牌公关",
+    "url": "https://www.prnasia.com/",
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 7
+  },
+  {
+    "id": "sina-ent",
+    "name": "新浪娱乐",
+    "tier": "T1.5",
+    "kind": "娱乐资讯",
+    "url": "https://ent.sina.com.cn/",
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 5
+  },
+  {
+    "id": "1905-news",
+    "name": "1905电影网",
+    "tier": "T1.5",
+    "kind": "影视宣发",
+    "url": "https://www.1905.com/news/",
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 31
+  }
+]
