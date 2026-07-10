@@ -193,7 +193,11 @@ function scoreCandidate(source, matches, text) {
   return Math.min(96, (tierBase[source.tier] || 42) + signalScore + crossBorder + urgency);
 }
 
-async function fetchSource(source) {
+function wait(milliseconds) {
+  return new Promise(resolve => setTimeout(resolve, milliseconds));
+}
+
+async function fetchSourceOnce(source) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), 15000);
   try {
@@ -221,6 +225,18 @@ async function fetchSource(source) {
   } finally {
     clearTimeout(timer);
   }
+}
+
+async function fetchSource(source) {
+  let result;
+  for (let attempt = 1; attempt <= 2; attempt += 1) {
+    result = await fetchSourceOnce(source);
+    if (result.ok) return result;
+    const retryable = result.status === 0 || result.status >= 500;
+    if (!retryable || attempt === 2) return result;
+    await wait(800 * attempt);
+  }
+  return result;
 }
 
 function buildCandidatesFromSource(source, html) {
