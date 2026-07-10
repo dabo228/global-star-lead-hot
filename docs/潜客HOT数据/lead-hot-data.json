@@ -2,19 +2,19 @@
   "schemaVersion": 2,
   "name": "全球星榜潜客 HOT",
   "date": "2026-07-10",
-  "updatedAt": "2026-07-10T01:55:18.607Z",
-  "updatedAtText": "2026/07/10 09:55",
+  "updatedAt": "2026-07-10T01:59:00.325Z",
+  "updatedAtText": "2026/07/10 09:59",
   "summary": {
     "total": 23,
     "selectedTotal": 23,
-    "allTotal": 121,
-    "currentTotal": 113,
-    "newToday": 121,
+    "allTotal": 122,
+    "currentTotal": 114,
+    "newToday": 122,
     "high": 0,
     "mid": 23,
     "low": 0,
     "sourceCount": 12,
-    "healthySourceCount": 11,
+    "healthySourceCount": 12,
     "historyDays": 7
   },
   "sources": [
@@ -35,10 +35,10 @@
       "tier": "T1",
       "kind": "票务平台",
       "url": "https://www.damai.cn/",
-      "ok": false,
-      "status": 500,
-      "error": "HTTP 500",
-      "candidateCount": 0
+      "ok": true,
+      "status": 200,
+      "error": "",
+      "candidateCount": 1
     },
     {
       "id": "showstart",
@@ -180,9 +180,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "3c23d0b0595e",
@@ -212,9 +212,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "4e6b9b2018fc",
@@ -244,9 +244,9 @@
       "source": "https://www.showstart.com/",
       "sourceName": "秀动",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "8314f280dd9e",
@@ -275,9 +275,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "bcc9a555dccd",
@@ -306,9 +306,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "3d09a8c0ffc6",
@@ -336,9 +336,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "b70dbe3fe16d",
@@ -366,9 +366,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "dab5d2e4cb1c",
@@ -399,9 +399,9 @@
       "source": "https://www.1905.com/news/",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "e458c6b8b5bd",
@@ -429,9 +429,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "ed3c1f46f105",
@@ -459,9 +459,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "9fbb75fb7f6e",
@@ -489,9 +489,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "55ec3f083754",
@@ -519,9 +519,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "69a716079e89",
@@ -551,9 +551,9 @@
       "source": "https://www.1905.com/news/20250925/1744656.shtml",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "c91cdb2d30cc",
@@ -583,9 +583,9 @@
       "source": "https://www.1905.com/news/",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "5daa7dc320e0",
@@ -617,9 +617,9 @@
       "source": "https://www.adquan.com/article/361739",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "0508199813ee",
@@ -649,9 +649,9 @@
       "source": "https://socialbeta.com/campaign/27866",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "72ebf537f84c",
@@ -681,9 +681,9 @@
       "source": "https://www.1905.com/video/play/1762698.shtml",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "4e229dd618bc",
@@ -716,9 +716,9 @@
       "source": "https://www.adquan.com/article/361748",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "76f5af96a7f3",
@@ -750,9 +750,9 @@
       "source": "https://www.adquan.com/article/361668",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "7c27ca0833eb",
@@ -784,9 +784,9 @@
       "source": "https://www.adquan.com/article/361739",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "2eebf5e6f444",
@@ -816,9 +816,9 @@
       "source": "https://socialbeta.com/campaign/27851",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "6312ae839334",
@@ -846,9 +846,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "ec37ef0d6466",
@@ -876,9 +876,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     }
   ],
   "allItems": [
@@ -910,9 +910,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "3c23d0b0595e",
@@ -942,9 +942,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "4e6b9b2018fc",
@@ -974,9 +974,9 @@
       "source": "https://www.showstart.com/",
       "sourceName": "秀动",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "8314f280dd9e",
@@ -1005,9 +1005,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "bcc9a555dccd",
@@ -1036,9 +1036,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "3d09a8c0ffc6",
@@ -1066,9 +1066,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "b70dbe3fe16d",
@@ -1096,9 +1096,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "dab5d2e4cb1c",
@@ -1129,9 +1129,9 @@
       "source": "https://www.1905.com/news/",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "e458c6b8b5bd",
@@ -1159,9 +1159,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "ed3c1f46f105",
@@ -1189,9 +1189,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "9fbb75fb7f6e",
@@ -1219,9 +1219,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "55ec3f083754",
@@ -1249,9 +1249,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "69a716079e89",
@@ -1281,9 +1281,9 @@
       "source": "https://www.1905.com/news/20250925/1744656.shtml",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "c91cdb2d30cc",
@@ -1313,9 +1313,9 @@
       "source": "https://www.1905.com/news/",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "5daa7dc320e0",
@@ -1347,9 +1347,9 @@
       "source": "https://www.adquan.com/article/361739",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "0508199813ee",
@@ -1379,9 +1379,9 @@
       "source": "https://socialbeta.com/campaign/27866",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "72ebf537f84c",
@@ -1411,9 +1411,9 @@
       "source": "https://www.1905.com/video/play/1762698.shtml",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "4e229dd618bc",
@@ -1446,9 +1446,9 @@
       "source": "https://www.adquan.com/article/361748",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "76f5af96a7f3",
@@ -1480,9 +1480,9 @@
       "source": "https://www.adquan.com/article/361668",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "7c27ca0833eb",
@@ -1514,9 +1514,9 @@
       "source": "https://www.adquan.com/article/361739",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "2eebf5e6f444",
@@ -1546,9 +1546,9 @@
       "source": "https://socialbeta.com/campaign/27851",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "6312ae839334",
@@ -1576,9 +1576,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "ec37ef0d6466",
@@ -1606,9 +1606,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "4f49eeff22fc",
@@ -1637,9 +1637,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "9e2149bb9879",
@@ -1668,9 +1668,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "23a4d802c108",
@@ -1699,9 +1699,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "4c82215c1ebb",
@@ -1730,9 +1730,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "1dd2b6121371",
@@ -1761,9 +1761,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "39b092e5cd63",
@@ -1792,9 +1792,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "c45fd0548a67",
@@ -1823,9 +1823,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "d6f4aed8e025",
@@ -1854,9 +1854,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "6dabe0221ccb",
@@ -1885,9 +1885,39 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "b2b3db31812c",
+      "title": "[{\"name\":\"演唱会\",\"id\":\"1\"},{\"name\":\"话剧歌剧\",\"id\":\"3\"},{\"name\":\"体育比赛\",\"id\":\"6\"},{\"name\":\"儿童亲子\",\"id\":\"100\"}]",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 68,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 大麦",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会"
+      ],
+      "object": "艺人项目方、演出主办、粉丝站、本地品牌",
+      "event": "大麦出现相关节点：[{\"name\":\"演唱会\",\"id\":\"1\"},{\"name\":\"话剧歌剧\",\"id\":\"3\"},{\"name\":\"体育比赛\",\"id\":\"6\"},{\"name\":\"儿童亲子\",\"id\":\"100\"}]",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://www.damai.cn/",
+      "sourceName": "大麦",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:00:03.106Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "0d966e00b3a7",
@@ -1915,9 +1945,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "df878b55038e",
@@ -1945,9 +1975,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "927b4b6da5a8",
@@ -1975,9 +2005,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "d0635d3fa9dd",
@@ -2005,9 +2035,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "811d16a4dca1",
@@ -2035,9 +2065,9 @@
       "source": "https://www.showstart.com/",
       "sourceName": "秀动",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "2588eb5f8dde",
@@ -2066,9 +2096,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "fc9c54df1635",
@@ -2096,9 +2126,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "5cdf21ddc99d",
@@ -2128,9 +2158,9 @@
       "source": "https://socialbeta.com/",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "a43088c77426",
@@ -2158,9 +2188,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "e8ebc4320529",
@@ -2190,9 +2220,9 @@
       "source": "https://www.adquan.com/article/361757",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "06858ba686a7",
@@ -2220,9 +2250,9 @@
       "source": "https://www.showstart.com/",
       "sourceName": "秀动",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "463dff133969",
@@ -2250,9 +2280,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "9ba4c9524989",
@@ -2280,9 +2310,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "8905a4411778",
@@ -2310,9 +2340,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "583edd27249d",
@@ -2342,9 +2372,9 @@
       "source": "https://socialbeta.com/article/111215",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "4a4e49d22324",
@@ -2372,9 +2402,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "8ba40d528692",
@@ -2402,9 +2432,9 @@
       "source": "https://www.showstart.com/",
       "sourceName": "秀动",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "e22db95c9b90",
@@ -2432,9 +2462,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "a4c2f4a81ece",
@@ -2462,9 +2492,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "1d855b3b78c8",
@@ -2492,9 +2522,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "23d74ac85834",
@@ -2522,9 +2552,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "a9040aeda9bf",
@@ -2552,9 +2582,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "01adadaa6295",
@@ -2582,9 +2612,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "8bdd6caa2606",
@@ -2612,9 +2642,9 @@
       "source": "https://show.bilibili.com/",
       "sourceName": "B站会员购",
       "sourceKind": "二次元/IP活动",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "1efbfc238591",
@@ -2642,9 +2672,9 @@
       "source": "https://bw.bilibili.com/",
       "sourceName": "Bilibili World",
       "sourceKind": "二次元/IP活动",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "09a324db3a51",
@@ -2672,9 +2702,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "392b86c570f3",
@@ -2702,9 +2732,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "10dbeb9f3bff",
@@ -2732,9 +2762,9 @@
       "source": "https://www.showstart.com/",
       "sourceName": "秀动",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "ecd61931cd18",
@@ -2764,9 +2794,9 @@
       "source": "https://www.adquan.com/article/361700",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "7b365456a53f",
@@ -2796,9 +2826,9 @@
       "source": "https://www.adquan.com/article/361770",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "93d3de84b707",
@@ -2828,9 +2858,9 @@
       "source": "https://k.sina.com.cn/article_5737990122_15602c7ea04001axfm.html?from=ent&subch=oent",
       "sourceName": "新浪娱乐",
       "sourceKind": "娱乐资讯",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "207c437b741c",
@@ -2860,9 +2890,9 @@
       "source": "https://www.1905.com/news/20250917/1743748.shtml",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "9bd2d4add94d",
@@ -2892,9 +2922,9 @@
       "source": "https://www.1905.com/news/",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "92eb365b70a2",
@@ -2924,9 +2954,9 @@
       "source": "https://www.adquan.com/",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "272b507806fd",
@@ -2956,9 +2986,9 @@
       "source": "https://socialbeta.com/campaign/27855",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "49a14826f1d1",
@@ -2988,9 +3018,9 @@
       "source": "https://socialbeta.com/campaign/27849",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "cc192acc734e",
@@ -3020,9 +3050,9 @@
       "source": "https://www.adquan.com/article/361604",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "ce524fac4f9f",
@@ -3052,9 +3082,9 @@
       "source": "https://socialbeta.com/campaign/27790",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "fdbb06d9af80",
@@ -3082,9 +3112,9 @@
       "source": "https://www.showstart.com/",
       "sourceName": "秀动",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "67596f3b64ab",
@@ -3113,9 +3143,9 @@
       "source": "https://www.adquan.com/article/361721",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "159fee419385",
@@ -3144,9 +3174,9 @@
       "source": "https://www.adquan.com/",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "6c4d0598a7a4",
@@ -3175,9 +3205,9 @@
       "source": "https://www.adquan.com/article/361805",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "d9f33e4ef39a",
@@ -3206,9 +3236,9 @@
       "source": "https://www.adquan.com/article/361767",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "4247a68292f5",
@@ -3236,9 +3266,9 @@
       "source": "https://www.showstart.com/",
       "sourceName": "秀动",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "f546670dd708",
@@ -3267,9 +3297,9 @@
       "source": "https://www.prnasia.com/mkt_events/sn_1069.shtml",
       "sourceName": "美通社亚洲",
       "sourceKind": "品牌公关",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "4e97343baa7b",
@@ -3297,9 +3327,9 @@
       "source": "https://www.adquan.com/article/361759",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "04d19d2ba7a3",
@@ -3327,9 +3357,9 @@
       "source": "https://www.1905.com/video/play/1762696.shtml",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "567fff4708ad",
@@ -3357,9 +3387,9 @@
       "source": "https://weibo.com/1642591402/NwWAguBQ6",
       "sourceName": "新浪娱乐",
       "sourceKind": "娱乐资讯",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "bd631a4f8407",
@@ -3387,9 +3417,9 @@
       "source": "https://www.1905.com/news/20250616/1730246.shtml",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "914b358d0b3e",
@@ -3417,9 +3447,945 @@
       "source": "https://www.1905.com/news/",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "f2c28ccfd303",
+      "title": "成毅官宣微博跨年开幕官",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 新浪娱乐",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "官宣"
+      ],
+      "object": "艺人项目方、片方、平台宣发、粉丝组织",
+      "event": "新浪娱乐出现相关节点：成毅官宣微博跨年开幕官",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://weibo.com/1642591402/Nx3QNmtNr",
+      "sourceName": "新浪娱乐",
+      "sourceKind": "娱乐资讯",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "88a46d08dccd",
+      "title": "电影《四渡》票房突破2亿 创长征题材票房新纪录",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 新浪娱乐",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "官宣"
+      ],
+      "object": "艺人项目方、片方、平台宣发、粉丝组织",
+      "event": "新浪娱乐出现相关节点：电影《四渡》票房突破2亿 创长征题材票房新纪录",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://ent.sina.com.cn/zz/2026-07-08/doc-inihaieh4810365.shtml",
+      "sourceName": "新浪娱乐",
+      "sourceKind": "娱乐资讯",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "5f4943123c5e",
+      "title": "宏盟集团拿下阿迪达斯5.12亿美元全球媒介业务",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026/07/03",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：宏盟集团拿下阿迪达斯5.12亿美元全球媒介业务",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/article/361673",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:27:48.564Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "a1ed49f7a94c",
+      "title": "环境、社会和公司治理(ESG)",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026-07-09",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：环境、社会和公司治理(ESG)",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/releases/listpage-theme-280-all-1.shtml",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "ad24c8a35910",
+      "title": "基于对全球 3000 多名记者的洞察，我们将系统解析成功推介的核心策略...",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：基于对全球 3000 多名记者的洞察，我们将系统解析成功推介的核心策略...",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "8363dc0f1af9",
+      "title": "快手最新AI广告，神了",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026/07/09",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：快手最新AI广告，神了",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/article/361802",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "b0789223f5a5",
+      "title": "麦当劳x王力宏x汪苏泷：我就喜欢薯条！",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 梅花网",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "梅花网出现相关节点：麦当劳x王力宏x汪苏泷：我就喜欢薯条！",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.meihua.info/shots/6897008321446912",
+      "sourceName": "梅花网",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "355baf6f9ea6",
+      "title": "美通社官网-PR_Newswire-新闻稿发布-全球领先的企业新闻稿发布机构",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：美通社官网-PR_Newswire-新闻稿发布-全球领先的企业新闻稿发布机构",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "8c5a2f7a4b11",
+      "title": "天猫世界杯×赵丽娜：大力支持这一支",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 梅花网",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "梅花网出现相关节点：天猫世界杯×赵丽娜：大力支持这一支",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.meihua.info/shots/6880173564806144",
+      "sourceName": "梅花网",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "fe00810aac6f",
+      "title": "星巴克首度联动泡泡玛特MOLLY，20周年限定联名上线",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026/07/08",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "官宣扩散期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "周年"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：星巴克首度联动泡泡玛特MOLLY，20周年限定联名上线",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://www.adquan.com/article/361771",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:27:48.564Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "d70ccde497dc",
+      "title": "药明生物连续四年获MSCI ESG AAA全球最高评级并入选其精选指数",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026-07-08",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：药明生物连续四年获MSCI ESG AAA全球最高评级并入选其精选指数",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/story/540042-1.shtml",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "3f8aa6f82208",
+      "title": "影迷评《三国第一部：争洛阳》：群雄逐鹿燃乱世",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 新浪娱乐",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "官宣"
+      ],
+      "object": "艺人项目方、片方、平台宣发、粉丝组织",
+      "event": "新浪娱乐出现相关节点：影迷评《三国第一部：争洛阳》：群雄逐鹿燃乱世",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://ent.sina.com.cn/m/c/2026-07-08/doc-inihaawk4917299.shtml",
+      "sourceName": "新浪娱乐",
+      "sourceKind": "娱乐资讯",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "db2746e8c802",
+      "title": "语言 (Languages)",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：语言 (Languages)",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "e994f499e877",
+      "title": "ehamarkets推出AI交易助手 为全球交易者提供全天候智能交易辅助",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026-07-10",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：ehamarkets推出AI交易助手 为全球交易者提供全天候智能交易辅助",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/story/540276-1.shtml",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "9a23eb5168a9",
+      "title": "FansAI | 伊利金典 看！是草原在呼吸！",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 梅花网",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "梅花网出现相关节点：FansAI | 伊利金典 看！是草原在呼吸！",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.meihua.info/shots/6888642653963264",
+      "sourceName": "梅花网",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:59:00.325Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "9a96c51c075a",
+      "title": "《超级少女》6.26上映 高燃星际冒险席卷大银幕",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 63,
+      "date": "6.26",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档",
+        "预告"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：《超级少女》6.26上映 高燃星际冒险席卷大银幕",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260626/1762134.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "91bc85d1f2a2",
+      "title": "二战尘封秘闻首登银幕!《诺曼底72小时》正在热映",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 63,
+      "date": "8.14",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档",
+        "预告"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：二战尘封秘闻首登银幕!《诺曼底72小时》正在热映",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260606/1761131.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "201a1ea689f8",
+      "title": "近日，剧集《夜魔侠：重生 第二季》宣布定档2026年3月4日于当地流媒体平台播出。剧集第二季共八集，于2025年2月在纽约开拍，导演贾斯汀·本森、……",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 63,
+      "date": "2026.3.4",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档",
+        "剧集"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：近日，剧集《夜魔侠：重生 第二季》宣布定档2026年3月4日于当地流媒体平台播出。剧集第二季共八集，于2025年2月在纽约开拍，导演贾斯汀·本森、……",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "a6641cf59269",
+      "title": "据外媒，“法鲨”迈克尔·法斯宾德将主演全新剧集《肯尼迪》。剧集由托马斯·温特伯格（《狩猎》《酒精计划》）执导，弗雷德里克·罗格瓦尔编剧……",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 63,
+      "date": "2025-10-23",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "机会观察期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "主演",
+        "剧集"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：据外媒，“法鲨”迈克尔·法斯宾德将主演全新剧集《肯尼迪》。剧集由托马斯·温特伯格（《狩猎》《酒精计划》）执导，弗雷德里克·罗格瓦尔编剧……",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "aa2295e96b3a",
+      "title": "马律师回归！剧集《夜魔侠：重生2》定档2026.3.4",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 63,
+      "date": "2026.3.4",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档",
+        "剧集"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：马律师回归！剧集《夜魔侠：重生2》定档2026.3.4",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20251021/1746942.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "2e26a1af0f4f",
+      "title": "舒淇主演《回魂计》定档10.9 挑战正义与人性界限",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 63,
+      "date": "2025-08-06",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档",
+        "主演"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：舒淇主演《回魂计》定档10.9 挑战正义与人性界限",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20250806/1737939.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "c2220800730f",
+      "title": "《八仙！》制式海报重磅释出 定格神话世界风光",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "2026-07-08",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：《八仙！》制式海报重磅释出 定格神话世界风光",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260708/1762675.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "b97b92c2df5f",
+      "title": "《淬火年代》定档6.17 张新成、宋祖儿创业筑梦！",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "2025-06-13",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：《淬火年代》定档6.17 张新成、宋祖儿创业筑梦！",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.1905.com/news/20250613/1729995.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "3fb7138aaf65",
+      "title": "《功夫女足》定档7.11 功夫加足球笑燃暑期档",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "7.11",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：《功夫女足》定档7.11 功夫加足球笑燃暑期档",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260706/1762625.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "ee3ac54c8854",
+      "title": "布拉德·皮特携战犬荒野求生 《野兽之心》曝预告",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "6.26",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "预告"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：布拉德·皮特携战犬荒野求生 《野兽之心》曝预告",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260612/1761374.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "aa07b637a1d2",
+      "title": "电影《八仙！》曝特别视频 脑洞大开笑点不断",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "7.11",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：电影《八仙！》曝特别视频 脑洞大开笑点不断",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260706/1762576.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "b5d69df4e72a",
+      "title": "电影《特立独行》曝新片段 道出无数成年人心声",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "7.11",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：电影《特立独行》曝新片段 道出无数成年人心声",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260706/1762583.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "ee2f7ab01b04",
+      "title": "恶女除渣！惊悚电影《家弑服务》热映 尺度生猛",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "8.14",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：恶女除渣！惊悚电影《家弑服务》热映 尺度生猛",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260529/1760525.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "077e2fa47b2f",
+      "title": "法鲨归来！主演新剧《肯尼迪》聚焦著名政治家族",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "2025-10-23",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "机会观察期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "主演"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：法鲨归来！主演新剧《肯尼迪》聚焦著名政治家族",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20251023/1747238.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "472ff3875512",
+      "title": "恐龙惊现人类小区!惊悚片《逃出绝命街》定档8.14",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "6.26",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：恐龙惊现人类小区!惊悚片《逃出绝命街》定档8.14",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260608/1761132.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
+    },
+    {
+      "id": "1be99af30420",
+      "title": "神仙喜剧动画大片《八仙！》7.8震撼发布全新IMAX、CINITY、中国巨幕、杜比视界、杜比全景声、DTS:X临境音、WANOS全景声、4DX、HDR LED制式海报，重磅呈现蓬莱仙境的绝美景象。影片已定档7月24日登陆全国院线，7……",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "2026-07-08",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：神仙喜剧动画大片《八仙！》7.8震撼发布全新IMAX、CINITY、中国巨幕、杜比视界、杜比全景声、DTS:X临境音、WANOS全景声、4DX、HDR LED制式海报，重磅呈现蓬莱仙境的绝美景象。影片已定档7月24日登陆全国院线，7……",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "1575fe2b2f69",
@@ -3449,66 +4415,6 @@
       "sourceKind": "品牌营销",
       "collectedAt": "2026-07-10T01:55:18.607Z",
       "firstSeenAt": "2026-07-10T01:55:18.607Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "f2c28ccfd303",
-      "title": "成毅官宣微博跨年开幕官",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 新浪娱乐",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "官宣"
-      ],
-      "object": "艺人项目方、片方、平台宣发、粉丝组织",
-      "event": "新浪娱乐出现相关节点：成毅官宣微博跨年开幕官",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://weibo.com/1642591402/Nx3QNmtNr",
-      "sourceName": "新浪娱乐",
-      "sourceKind": "娱乐资讯",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "88a46d08dccd",
-      "title": "电影《四渡》票房突破2亿 创长征题材票房新纪录",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 新浪娱乐",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "官宣"
-      ],
-      "object": "艺人项目方、片方、平台宣发、粉丝组织",
-      "event": "新浪娱乐出现相关节点：电影《四渡》票房突破2亿 创长征题材票房新纪录",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://ent.sina.com.cn/zz/2026-07-08/doc-inihaieh4810365.shtml",
-      "sourceName": "新浪娱乐",
-      "sourceKind": "娱乐资讯",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
       "lastSeenAt": "2026-07-10T01:55:18.607Z"
     },
     {
@@ -3542,156 +4448,6 @@
       "lastSeenAt": "2026-07-10T01:55:18.607Z"
     },
     {
-      "id": "5f4943123c5e",
-      "title": "宏盟集团拿下阿迪达斯5.12亿美元全球媒介业务",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026/07/03",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：宏盟集团拿下阿迪达斯5.12亿美元全球媒介业务",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/article/361673",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "a1ed49f7a94c",
-      "title": "环境、社会和公司治理(ESG)",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026-07-09",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：环境、社会和公司治理(ESG)",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/releases/listpage-theme-280-all-1.shtml",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "ad24c8a35910",
-      "title": "基于对全球 3000 多名记者的洞察，我们将系统解析成功推介的核心策略...",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：基于对全球 3000 多名记者的洞察，我们将系统解析成功推介的核心策略...",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "8363dc0f1af9",
-      "title": "快手最新AI广告，神了",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026/07/09",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：快手最新AI广告，神了",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/article/361802",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "355baf6f9ea6",
-      "title": "美通社官网-PR_Newswire-新闻稿发布-全球领先的企业新闻稿发布机构",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：美通社官网-PR_Newswire-新闻稿发布-全球领先的企业新闻稿发布机构",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
       "id": "1afad3ea4723",
       "title": "淘宝：天不怕地不怕的爸爸，偏偏就怕试衣间",
       "type": "品牌宣发",
@@ -3720,672 +4476,6 @@
       "collectedAt": "2026-07-10T01:55:18.607Z",
       "firstSeenAt": "2026-07-10T01:55:18.607Z",
       "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "fe00810aac6f",
-      "title": "星巴克首度联动泡泡玛特MOLLY，20周年限定联名上线",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026/07/08",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "官宣扩散期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "周年"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：星巴克首度联动泡泡玛特MOLLY，20周年限定联名上线",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://www.adquan.com/article/361771",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "d70ccde497dc",
-      "title": "药明生物连续四年获MSCI ESG AAA全球最高评级并入选其精选指数",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026-07-08",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：药明生物连续四年获MSCI ESG AAA全球最高评级并入选其精选指数",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/story/540042-1.shtml",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "3f8aa6f82208",
-      "title": "影迷评《三国第一部：争洛阳》：群雄逐鹿燃乱世",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 新浪娱乐",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "官宣"
-      ],
-      "object": "艺人项目方、片方、平台宣发、粉丝组织",
-      "event": "新浪娱乐出现相关节点：影迷评《三国第一部：争洛阳》：群雄逐鹿燃乱世",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://ent.sina.com.cn/m/c/2026-07-08/doc-inihaawk4917299.shtml",
-      "sourceName": "新浪娱乐",
-      "sourceKind": "娱乐资讯",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "db2746e8c802",
-      "title": "语言 (Languages)",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：语言 (Languages)",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "e994f499e877",
-      "title": "ehamarkets推出AI交易助手 为全球交易者提供全天候智能交易辅助",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026-07-10",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：ehamarkets推出AI交易助手 为全球交易者提供全天候智能交易辅助",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/story/540276-1.shtml",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "9a96c51c075a",
-      "title": "《超级少女》6.26上映 高燃星际冒险席卷大银幕",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 63,
-      "date": "6.26",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档",
-        "预告"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：《超级少女》6.26上映 高燃星际冒险席卷大银幕",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260626/1762134.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "91bc85d1f2a2",
-      "title": "二战尘封秘闻首登银幕!《诺曼底72小时》正在热映",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 63,
-      "date": "8.14",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档",
-        "预告"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：二战尘封秘闻首登银幕!《诺曼底72小时》正在热映",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260606/1761131.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "201a1ea689f8",
-      "title": "近日，剧集《夜魔侠：重生 第二季》宣布定档2026年3月4日于当地流媒体平台播出。剧集第二季共八集，于2025年2月在纽约开拍，导演贾斯汀·本森、……",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 63,
-      "date": "2026.3.4",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档",
-        "剧集"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：近日，剧集《夜魔侠：重生 第二季》宣布定档2026年3月4日于当地流媒体平台播出。剧集第二季共八集，于2025年2月在纽约开拍，导演贾斯汀·本森、……",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "a6641cf59269",
-      "title": "据外媒，“法鲨”迈克尔·法斯宾德将主演全新剧集《肯尼迪》。剧集由托马斯·温特伯格（《狩猎》《酒精计划》）执导，弗雷德里克·罗格瓦尔编剧……",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 63,
-      "date": "2025-10-23",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "机会观察期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "主演",
-        "剧集"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：据外媒，“法鲨”迈克尔·法斯宾德将主演全新剧集《肯尼迪》。剧集由托马斯·温特伯格（《狩猎》《酒精计划》）执导，弗雷德里克·罗格瓦尔编剧……",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "aa2295e96b3a",
-      "title": "马律师回归！剧集《夜魔侠：重生2》定档2026.3.4",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 63,
-      "date": "2026.3.4",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档",
-        "剧集"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：马律师回归！剧集《夜魔侠：重生2》定档2026.3.4",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20251021/1746942.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "2e26a1af0f4f",
-      "title": "舒淇主演《回魂计》定档10.9 挑战正义与人性界限",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 63,
-      "date": "2025-08-06",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档",
-        "主演"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：舒淇主演《回魂计》定档10.9 挑战正义与人性界限",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20250806/1737939.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "c2220800730f",
-      "title": "《八仙！》制式海报重磅释出 定格神话世界风光",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "2026-07-08",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：《八仙！》制式海报重磅释出 定格神话世界风光",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260708/1762675.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "b97b92c2df5f",
-      "title": "《淬火年代》定档6.17 张新成、宋祖儿创业筑梦！",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "2025-06-13",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：《淬火年代》定档6.17 张新成、宋祖儿创业筑梦！",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.1905.com/news/20250613/1729995.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "3fb7138aaf65",
-      "title": "《功夫女足》定档7.11 功夫加足球笑燃暑期档",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "7.11",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：《功夫女足》定档7.11 功夫加足球笑燃暑期档",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260706/1762625.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "ee3ac54c8854",
-      "title": "布拉德·皮特携战犬荒野求生 《野兽之心》曝预告",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "6.26",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "预告"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：布拉德·皮特携战犬荒野求生 《野兽之心》曝预告",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260612/1761374.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "aa07b637a1d2",
-      "title": "电影《八仙！》曝特别视频 脑洞大开笑点不断",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "7.11",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：电影《八仙！》曝特别视频 脑洞大开笑点不断",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260706/1762576.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "b5d69df4e72a",
-      "title": "电影《特立独行》曝新片段 道出无数成年人心声",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "7.11",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：电影《特立独行》曝新片段 道出无数成年人心声",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260706/1762583.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "ee2f7ab01b04",
-      "title": "恶女除渣！惊悚电影《家弑服务》热映 尺度生猛",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "8.14",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：恶女除渣！惊悚电影《家弑服务》热映 尺度生猛",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260529/1760525.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "077e2fa47b2f",
-      "title": "法鲨归来！主演新剧《肯尼迪》聚焦著名政治家族",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "2025-10-23",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "机会观察期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "主演"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：法鲨归来！主演新剧《肯尼迪》聚焦著名政治家族",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20251023/1747238.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "472ff3875512",
-      "title": "恐龙惊现人类小区!惊悚片《逃出绝命街》定档8.14",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "6.26",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：恐龙惊现人类小区!惊悚片《逃出绝命街》定档8.14",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260608/1761132.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "1be99af30420",
-      "title": "神仙喜剧动画大片《八仙！》7.8震撼发布全新IMAX、CINITY、中国巨幕、杜比视界、杜比全景声、DTS:X临境音、WANOS全景声、4DX、HDR LED制式海报，重磅呈现蓬莱仙境的绝美景象。影片已定档7月24日登陆全国院线，7……",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "2026-07-08",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：神仙喜剧动画大片《八仙！》7.8震撼发布全新IMAX、CINITY、中国巨幕、杜比视界、杜比全景声、DTS:X临境音、WANOS全景声、4DX、HDR LED制式海报，重磅呈现蓬莱仙境的绝美景象。影片已定档7月24日登陆全国院线，7……",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
-    },
-    {
-      "id": "b2b3db31812c",
-      "title": "[{\"name\":\"演唱会\",\"id\":\"1\"},{\"name\":\"话剧歌剧\",\"id\":\"3\"},{\"name\":\"体育比赛\",\"id\":\"6\"},{\"name\":\"儿童亲子\",\"id\":\"100\"}]",
-      "type": "线下活动窗口",
-      "confidence": "低",
-      "score": 68,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 大麦",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "艺人项目方、演出主办、粉丝站、本地品牌",
-      "event": "大麦出现相关节点：[{\"name\":\"演唱会\",\"id\":\"1\"},{\"name\":\"话剧歌剧\",\"id\":\"3\"},{\"name\":\"体育比赛\",\"id\":\"6\"},{\"name\":\"儿童亲子\",\"id\":\"100\"}]",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://www.damai.cn/",
-      "sourceName": "大麦",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:53:35.297Z",
-      "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:53:35.297Z"
     },
     {
       "id": "dbf5850dd23d",
@@ -4508,66 +4598,6 @@
       "lastSeenAt": "2026-07-10T01:49:01.962Z"
     },
     {
-      "id": "b0789223f5a5",
-      "title": "麦当劳x王力宏x汪苏泷：我就喜欢薯条！",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 梅花网",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "梅花网出现相关节点：麦当劳x王力宏x汪苏泷：我就喜欢薯条！",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.meihua.info/shots/6897008321446912",
-      "sourceName": "梅花网",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:49:01.962Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:49:01.962Z"
-    },
-    {
-      "id": "8c5a2f7a4b11",
-      "title": "天猫世界杯×赵丽娜：大力支持这一支",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 梅花网",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "梅花网出现相关节点：天猫世界杯×赵丽娜：大力支持这一支",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.meihua.info/shots/6880173564806144",
-      "sourceName": "梅花网",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:49:01.962Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:49:01.962Z"
-    },
-    {
       "id": "8897e93c2fe8",
       "title": "AI替代引发工人困境，企业转嫁风险，时代趋势下不同选择。",
       "type": "品牌宣发",
@@ -4628,9 +4658,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "3c23d0b0595e",
@@ -4660,9 +4690,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "4e6b9b2018fc",
@@ -4692,9 +4722,9 @@
       "source": "https://www.showstart.com/",
       "sourceName": "秀动",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "8314f280dd9e",
@@ -4723,9 +4753,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "bcc9a555dccd",
@@ -4754,9 +4784,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "3d09a8c0ffc6",
@@ -4784,9 +4814,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "b70dbe3fe16d",
@@ -4814,9 +4844,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "dab5d2e4cb1c",
@@ -4847,9 +4877,9 @@
       "source": "https://www.1905.com/news/",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "e458c6b8b5bd",
@@ -4877,9 +4907,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "ed3c1f46f105",
@@ -4907,9 +4937,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "9fbb75fb7f6e",
@@ -4937,9 +4967,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "55ec3f083754",
@@ -4967,9 +4997,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "69a716079e89",
@@ -4999,9 +5029,9 @@
       "source": "https://www.1905.com/news/20250925/1744656.shtml",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "c91cdb2d30cc",
@@ -5031,9 +5061,9 @@
       "source": "https://www.1905.com/news/",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "5daa7dc320e0",
@@ -5065,9 +5095,9 @@
       "source": "https://www.adquan.com/article/361739",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "0508199813ee",
@@ -5097,9 +5127,9 @@
       "source": "https://socialbeta.com/campaign/27866",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "72ebf537f84c",
@@ -5129,9 +5159,9 @@
       "source": "https://www.1905.com/video/play/1762698.shtml",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "4e229dd618bc",
@@ -5164,9 +5194,9 @@
       "source": "https://www.adquan.com/article/361748",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "76f5af96a7f3",
@@ -5198,9 +5228,9 @@
       "source": "https://www.adquan.com/article/361668",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "7c27ca0833eb",
@@ -5232,9 +5262,9 @@
       "source": "https://www.adquan.com/article/361739",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "2eebf5e6f444",
@@ -5264,9 +5294,9 @@
       "source": "https://socialbeta.com/campaign/27851",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "6312ae839334",
@@ -5294,9 +5324,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     },
     {
       "id": "ec37ef0d6466",
@@ -5324,9 +5354,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-07-10T01:55:18.607Z",
+      "collectedAt": "2026-07-10T01:59:00.325Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-07-10T01:55:18.607Z"
+      "lastSeenAt": "2026-07-10T01:59:00.325Z"
     }
   ]
 }
