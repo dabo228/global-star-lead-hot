@@ -5,10 +5,10 @@
     "tier": "T1",
     "kind": "票务平台",
     "url": "https://show.maoyan.com/",
-    "ok": false,
-    "status": 0,
-    "error": "fetch failed",
-    "candidateCount": 0
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 39
   },
   {
     "id": "damai",
@@ -27,10 +27,10 @@
     "tier": "T1",
     "kind": "票务平台",
     "url": "https://www.showstart.com/",
-    "ok": false,
-    "status": 0,
-    "error": "fetch failed",
-    "candidateCount": 0
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 7
   },
   {
     "id": "bilibili-show",
@@ -96,7 +96,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 3
+    "candidateCount": 2
   },
   {
     "id": "prnasia",
