@@ -8,7 +8,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 39
+    "candidateCount": 36
   },
   {
     "id": "damai",
@@ -16,10 +16,10 @@
     "tier": "T1",
     "kind": "票务平台",
     "url": "https://www.damai.cn/",
-    "ok": false,
-    "status": 500,
-    "error": "HTTP 500",
-    "candidateCount": 0
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 1
   },
   {
     "id": "showstart",
@@ -63,7 +63,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 31
+    "candidateCount": 36
   },
   {
     "id": "socialbeta",
@@ -96,7 +96,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 2
+    "candidateCount": 4
   },
   {
     "id": "prnasia",
@@ -118,7 +118,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 3
+    "candidateCount": 4
   },
   {
     "id": "1905-news",
@@ -129,6 +129,6 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 27
+    "candidateCount": 24
   }
 ]
