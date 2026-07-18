@@ -5,10 +5,10 @@
     "tier": "T1",
     "kind": "票务平台",
     "url": "https://show.maoyan.com/",
-    "ok": false,
-    "status": 0,
-    "error": "请求超时",
-    "candidateCount": 0
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 36
   },
   {
     "id": "damai",
@@ -30,7 +30,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 4
+    "candidateCount": 8
   },
   {
     "id": "bilibili-show",
@@ -96,7 +96,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 5
+    "candidateCount": 3
   },
   {
     "id": "prnasia",
@@ -118,7 +118,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 4
+    "candidateCount": 3
   },
   {
     "id": "1905-news",
