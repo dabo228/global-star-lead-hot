@@ -2,14 +2,14 @@
   "schemaVersion": 2,
   "name": "全球星榜潜客 HOT",
   "date": "2026-08-07",
-  "updatedAt": "2026-08-07T03:42:37.525Z",
-  "updatedAtText": "2026/08/07 11:42",
+  "updatedAt": "2026-08-07T05:56:45.878Z",
+  "updatedAtText": "2026/08/07 13:56",
   "summary": {
     "total": 30,
     "selectedTotal": 30,
-    "allTotal": 300,
-    "currentTotal": 96,
-    "newToday": 4,
+    "allTotal": 297,
+    "currentTotal": 91,
+    "newToday": 8,
     "high": 0,
     "mid": 30,
     "low": 0,
@@ -27,7 +27,7 @@
       "ok": true,
       "status": 200,
       "error": "",
-      "candidateCount": 35
+      "candidateCount": 33
     },
     {
       "id": "damai",
@@ -93,7 +93,7 @@
       "ok": true,
       "status": 200,
       "error": "",
-      "candidateCount": 2
+      "candidateCount": 0
     },
     {
       "id": "digitaling",
@@ -104,7 +104,7 @@
       "ok": true,
       "status": 200,
       "error": "",
-      "candidateCount": 4
+      "candidateCount": 5
     },
     {
       "id": "meihua",
@@ -115,7 +115,7 @@
       "ok": true,
       "status": 200,
       "error": "",
-      "candidateCount": 3
+      "candidateCount": 4
     },
     {
       "id": "prnasia",
@@ -148,7 +148,7 @@
       "ok": true,
       "status": 200,
       "error": "",
-      "candidateCount": 29
+      "candidateCount": 27
     }
   ],
   "selected": [
@@ -276,9 +276,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-04T07:16:25.194Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "b755b4c47274",
@@ -473,8 +473,8 @@
       "lastSeenAt": "2026-07-31T13:13:26.662Z"
     },
     {
-      "id": "49cc1aac47ed",
-      "title": "UNKNOWN 袁一琦2026个人巡回演唱会-上海站",
+      "id": "05ef919f0e04",
+      "title": "石凯「时空乐园」2026巡回演唱会-上海站",
       "type": "演唱会节点",
       "confidence": "中",
       "score": 74,
@@ -493,15 +493,15 @@
         "巡回"
       ],
       "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：UNKNOWN 袁一琦2026个人巡回演唱会-上海站",
+      "event": "猫眼演出出现相关节点：石凯「时空乐园」2026巡回演唱会-上海站",
       "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
       "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-05T07:17:35.955Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-07T05:56:45.878Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "8314f280dd9e",
@@ -598,36 +598,6 @@
       "lastSeenAt": "2026-08-02T10:04:39.360Z"
     },
     {
-      "id": "927b4b6da5a8",
-      "title": "2026郭静「刚刚好的自己」演唱会上海站",
-      "type": "演唱会节点",
-      "confidence": "中",
-      "score": 73,
-      "date": "2026.08.29",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "开票窗口期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：2026郭静「刚刚好的自己」演唱会上海站",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
       "id": "07e86ae41b45",
       "title": "6个消费暗号，回答什么更重要｜知萌Q2消费趋势季报",
       "type": "二次元/IP活动",
@@ -655,9 +625,9 @@
       "source": "https://www.adquan.com/article/362423",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-05T10:43:52.314Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "5bd88a052feb",
@@ -687,9 +657,9 @@
       "source": "https://www.adquan.com/article/362321",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-03T04:22:46.620Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "3d09a8c0ffc6",
@@ -717,9 +687,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "73be3dd44253",
@@ -749,9 +719,9 @@
       "source": "https://www.adquan.com/article/362419",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-05T10:43:52.314Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "577d90d8467a",
@@ -781,9 +751,9 @@
       "source": "https://www.adquan.com/article/362419",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-05T10:43:52.314Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "cb3fbec09c7d",
@@ -873,9 +843,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "b70dbe3fe16d",
@@ -903,9 +873,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "6f6915790bd2",
@@ -933,9 +903,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-04T10:47:12.421Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "dab5d2e4cb1c",
@@ -966,9 +936,9 @@
       "source": "https://www.1905.com/news/",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "6d241bfa670b",
@@ -996,9 +966,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-05T03:52:12.730Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "30e8c746012c",
@@ -1026,9 +996,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-31T13:13:26.662Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "8c7b648372ab",
@@ -1089,6 +1059,36 @@
       "collectedAt": "2026-08-04T13:14:54.537Z",
       "firstSeenAt": "2026-08-02T07:08:55.302Z",
       "lastSeenAt": "2026-08-04T13:14:54.537Z"
+    },
+    {
+      "id": "f9e047d16757",
+      "title": "古风沉浸式戏腔歌曲迷你互动体验/含戏服",
+      "type": "线下活动窗口",
+      "confidence": "中",
+      "score": 72,
+      "date": "2026.08.05 - 2026.08.30",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "开票窗口期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "游戏"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：古风沉浸式戏腔歌曲迷你互动体验/含戏服",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-03T07:59:25.447Z",
+      "firstSeenAt": "2026-07-24T10:26:09.830Z",
+      "lastSeenAt": "2026-08-03T07:59:25.447Z"
     }
   ],
   "allItems": [
@@ -1120,13 +1120,13 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-04T07:16:25.194Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
-      "id": "49cc1aac47ed",
-      "title": "UNKNOWN 袁一琦2026个人巡回演唱会-上海站",
+      "id": "05ef919f0e04",
+      "title": "石凯「时空乐园」2026巡回演唱会-上海站",
       "type": "演唱会节点",
       "confidence": "中",
       "score": 74,
@@ -1145,45 +1145,15 @@
         "巡回"
       ],
       "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：UNKNOWN 袁一琦2026个人巡回演唱会-上海站",
+      "event": "猫眼演出出现相关节点：石凯「时空乐园」2026巡回演唱会-上海站",
       "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
       "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-05T07:17:35.955Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "927b4b6da5a8",
-      "title": "2026郭静「刚刚好的自己」演唱会上海站",
-      "type": "演唱会节点",
-      "confidence": "中",
-      "score": 73,
-      "date": "2026.08.29",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "开票窗口期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：2026郭静「刚刚好的自己」演唱会上海站",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-07T05:56:45.878Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "07e86ae41b45",
@@ -1213,9 +1183,9 @@
       "source": "https://www.adquan.com/article/362423",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-05T10:43:52.314Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "5bd88a052feb",
@@ -1245,9 +1215,9 @@
       "source": "https://www.adquan.com/article/362321",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-03T04:22:46.620Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "3d09a8c0ffc6",
@@ -1275,9 +1245,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "73be3dd44253",
@@ -1307,9 +1277,9 @@
       "source": "https://www.adquan.com/article/362419",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-05T10:43:52.314Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "577d90d8467a",
@@ -1339,9 +1309,9 @@
       "source": "https://www.adquan.com/article/362419",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-05T10:43:52.314Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "4a4e49d22324",
@@ -1369,9 +1339,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "b70dbe3fe16d",
@@ -1399,9 +1369,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "6f6915790bd2",
@@ -1429,9 +1399,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-04T10:47:12.421Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "dab5d2e4cb1c",
@@ -1462,9 +1432,9 @@
       "source": "https://www.1905.com/news/",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "6d241bfa670b",
@@ -1492,9 +1462,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-05T03:52:12.730Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "30e8c746012c",
@@ -1522,9 +1492,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-31T13:13:26.662Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "69a716079e89",
@@ -1554,9 +1524,9 @@
       "source": "https://www.1905.com/news/20250925/1744656.shtml",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "c91cdb2d30cc",
@@ -1586,9 +1556,9 @@
       "source": "https://www.1905.com/news/",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "0bf89465deb2",
@@ -1617,9 +1587,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-03T04:22:46.620Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "568fe44e4b05",
@@ -1648,9 +1618,2253 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-21T07:13:10.490Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "70b0a30cfe80",
+      "title": "歌者归来超级歌会一上海站（中秋特别场）",
+      "type": "演唱会节点",
+      "confidence": "低",
+      "score": 69,
+      "date": "2026.09.05",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会",
+        "巡回"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：歌者归来超级歌会一上海站（中秋特别场）",
+      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
+      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-27T11:33:52.135Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "4c82215c1ebb",
+      "title": "李荣浩「黑马」世界巡回演唱会-上海站",
+      "type": "演唱会节点",
+      "confidence": "低",
+      "score": 69,
+      "date": "2026.09.25 / 09.26",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会",
+        "巡回"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：李荣浩「黑马」世界巡回演唱会-上海站",
+      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
+      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-06T07:18:58.221Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "1dd2b6121371",
+      "title": "林宥嘉《超级管家》巡回演唱会 上海站",
+      "type": "演唱会节点",
+      "confidence": "低",
+      "score": 69,
+      "date": "2026.08.15 / 08.16",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会",
+        "巡回"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：林宥嘉《超级管家》巡回演唱会 上海站",
+      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
+      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:00:03.106Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "afb8db8c5f0f",
+      "title": "杀死比尔血色全传改档又点映，业内谈档期乱象",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 69,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 新浪娱乐",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售 品牌 官宣 代言 全球",
+      "signals": [
+        "演唱会节点",
+        "音乐节",
+        "品牌宣发",
+        "代言"
+      ],
+      "object": "艺人项目方、片方、平台宣发、粉丝组织",
+      "event": "新浪娱乐出现相关节点：杀死比尔血色全传改档又点映，业内谈档期乱象",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://k.sina.com.cn/article_5737990122_15602c7ea04001c50i.html?from=movie",
+      "sourceName": "新浪娱乐",
+      "sourceKind": "娱乐资讯",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-07T05:56:45.878Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "49cc1aac47ed",
+      "title": "UNKNOWN 袁一琦2026个人巡回演唱会-上海站",
+      "type": "演唱会节点",
+      "confidence": "低",
+      "score": 69,
+      "date": "2026.09.12",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会",
+        "巡回"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：UNKNOWN 袁一琦2026个人巡回演唱会-上海站",
+      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
+      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-05T07:17:35.955Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "cf6c3856220d",
+      "title": "“我心永恒”“昨日重现”唯美经典英文歌曲沉浸式演唱会",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 68,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 秀动",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会"
+      ],
+      "object": "音乐节主办、Livehouse 主办、本地商圈",
+      "event": "秀动出现相关节点：“我心永恒”“昨日重现”唯美经典英文歌曲沉浸式演唱会",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://www.showstart.com/",
+      "sourceName": "秀动",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-06T13:09:25.331Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "4875743b45de",
+      "title": "《从披头士到酷玩》·英伦回响致敬演唱会",
+      "type": "演唱会节点",
+      "confidence": "低",
+      "score": 68,
+      "date": "2026.09.25",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：《从披头士到酷玩》·英伦回响致敬演唱会",
+      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
+      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-26T04:21:19.921Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "48f6d51b4574",
+      "title": "《天涯共此时》·国风武侠金曲演唱会 | 江湖再相逢",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 68,
+      "date": "2026.08.22",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：《天涯共此时》·国风武侠金曲演唱会 | 江湖再相逢",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-26T04:21:19.921Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "cf9562b2a2ff",
+      "title": "《雾里观花》煌xb专场北京站特别演出",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 68,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 秀动",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会"
+      ],
+      "object": "音乐节主办、Livehouse 主办、本地商圈",
+      "event": "秀动出现相关节点：《雾里观花》煌xb专场北京站特别演出",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://www.showstart.com/",
+      "sourceName": "秀动",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-06T13:09:25.331Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "b5e06a75ad5e",
+      "title": "2026“爱之传奇”迈克学摇滚演唱会",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 68,
+      "date": "2026.09.12",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：2026“爱之传奇”迈克学摇滚演唱会",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-05T03:52:12.730Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "927b4b6da5a8",
+      "title": "2026郭静「刚刚好的自己」演唱会上海站",
+      "type": "演唱会节点",
+      "confidence": "低",
+      "score": 68,
+      "date": "2026.08.29",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：2026郭静「刚刚好的自己」演唱会上海站",
+      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
+      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:27:48.564Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "639f0a9cfca9",
+      "title": "2026WAGF 刘嘉卓&宗克.梅恩2026《不一样的声音》北京站",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 68,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 秀动",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会"
+      ],
+      "object": "音乐节主办、Livehouse 主办、本地商圈",
+      "event": "秀动出现相关节点：2026WAGF 刘嘉卓&宗克.梅恩2026《不一样的声音》北京站",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://www.showstart.com/",
+      "sourceName": "秀动",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-06T13:09:25.331Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "0cc0333084a4",
+      "title": "春华秋实谱华章——迎国庆沪剧交响演唱会",
+      "type": "演唱会节点",
+      "confidence": "低",
+      "score": 68,
+      "date": "2026.10.07",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：春华秋实谱华章——迎国庆沪剧交响演唱会",
+      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
+      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-31T10:47:34.659Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "fc9c54df1635",
+      "title": "弗兰克·怀德霍恩和他的朋友们音乐会 Frank Wildhorn & Friends Gala Concert",
+      "type": "演唱会节点",
+      "confidence": "低",
+      "score": 68,
+      "date": "2026.11.20 / 11.21",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "concert"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：弗兰克·怀德霍恩和他的朋友们音乐会 Frank Wildhorn & Friends Gala Concert",
+      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
+      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:27:48.564Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "1fe6b14f6707",
+      "title": "古谱诗词音乐会《能不忆江南》",
+      "type": "演唱会节点",
+      "confidence": "低",
+      "score": 68,
+      "date": "2026.10.17",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "音乐节"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：古谱诗词音乐会《能不忆江南》",
+      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
+      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-06T10:46:50.735Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "25f4e068a485",
+      "title": "今夜星光灿烂——阿格里奇/文格洛夫/伊瑟利斯领衔室内乐音乐节",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 68,
+      "date": "2026.09.06",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "音乐节"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：今夜星光灿烂——阿格里奇/文格洛夫/伊瑟利斯领衔室内乐音乐节",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-06T03:56:49.980Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "6f8deac7e63b",
+      "title": "魔力sir家族演唱会-上海站",
+      "type": "演唱会节点",
+      "confidence": "低",
+      "score": 68,
+      "date": "2026.08.22",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：魔力sir家族演唱会-上海站",
+      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
+      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-16T07:03:13.837Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "853315daa669",
+      "title": "【奇妙嘿夜】烛光音乐会”爱乐之城“&“权力的游戏”双主题钢琴&小提琴&大提琴",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 67,
+      "date": "2026.10.24 / 10.25",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "演出节点期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "游戏"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：【奇妙嘿夜】烛光音乐会”爱乐之城“&“权力的游戏”双主题钢琴&小提琴&大提琴",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-05T10:43:52.314Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "c2dd6dc4a124",
+      "title": "【中数“第二现场”】安徽省黄梅戏剧院传统黄梅戏《牛郎织女》直播",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 67,
+      "date": "2026.08.12 - 08.18",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "机会观察期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "周年"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：【中数“第二现场”】安徽省黄梅戏剧院传统黄梅戏《牛郎织女》直播",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-05T03:52:12.730Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "db27ace3aea5",
+      "title": "李蕾讲经典五周年——她要开自己的花",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 67,
+      "date": "2026.08.19",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "机会观察期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "周年"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：李蕾讲经典五周年——她要开自己的花",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-04T03:56:37.844Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "0d475342baaf",
+      "title": "上海爱乐乐团2026-2027音乐季 室内乐音乐会《浮光欧罗巴》",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 67,
+      "date": "2026.08.08 - 2026.08.28",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "机会观察期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "游戏"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：上海爱乐乐团2026-2027音乐季 室内乐音乐会《浮光欧罗巴》",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-05T10:43:52.314Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "01adadaa6295",
+      "title": "曜时空VR影乐园·AI火星农场·小时代XR电影",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 67,
+      "date": "2025.07.22 - 2026.09.30",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "机会观察期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "游戏"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：曜时空VR影乐园·AI火星农场·小时代XR电影",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:27:48.564Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "74ea98ce84b6",
+      "title": "原创肢体儿童剧《XUANXUAN的奇妙夜》",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 67,
+      "date": "2026.08.15",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "机会观察期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "周年"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：原创肢体儿童剧《XUANXUAN的奇妙夜》",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-04T03:56:37.844Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "3f4d3691af26",
+      "title": "走进宫崎骏的童话世界-工作坊系列",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 67,
+      "date": "2026.08.22 / 08.23",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "机会观察期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "漫展"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：走进宫崎骏的童话世界-工作坊系列",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-29T10:46:25.699Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "8bdd6caa2606",
+      "title": "bilibili会员购",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 67,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 B站会员购",
+      "stage": "机会观察期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "Bilibili"
+      ],
+      "object": "IP方、展会主办、游戏发行方、品牌联名团队",
+      "event": "B站会员购出现相关节点：bilibili会员购",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://show.bilibili.com/",
+      "sourceName": "B站会员购",
+      "sourceKind": "二次元/IP活动",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:27:48.564Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "1efbfc238591",
+      "title": "BW2026，次元新航线！",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 67,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 Bilibili World",
+      "stage": "机会观察期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "BW"
+      ],
+      "object": "展会主办、品牌合作方、IP合作方",
+      "event": "Bilibili World出现相关节点：BW2026，次元新航线！",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://bw.bilibili.com/",
+      "sourceName": "Bilibili World",
+      "sourceKind": "二次元/IP活动",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:27:48.564Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "09a324db3a51",
+      "title": "Paradox《群星》十周年纪念交响音乐会上海场",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 67,
+      "date": "2026.08.16",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "机会观察期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "周年"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：Paradox《群星》十周年纪念交响音乐会上海场",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:27:48.564Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "536adb09f026",
+      "title": "第十四届梅花创新奖（Mawards）终审评委招募正式启动！",
+      "type": "粉丝生日应援",
+      "confidence": "低",
+      "score": 66,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 梅花网",
+      "stage": "企划征集期",
+      "query": "生日 生贺 应援 招募",
+      "signals": [
+        "粉丝生日应援",
+        "招募"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "梅花网出现相关节点：第十四届梅花创新奖（Mawards）终审评委招募正式启动！",
+      "opportunity": "可切入生日屏、城市地标屏、交通媒体、主题打卡和公益联动。",
+      "next": "看到你们在筹备生日节点，如果城市和形式还没完全确定，我们可以先给一版应援组合建议。",
+      "source": "https://www.meihua.info/article/6950730118153216",
+      "sourceName": "梅花网",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-06T07:18:58.221Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "58bd7b1528ec",
+      "title": "红薯互娱：文旅地产小红书推广策略，城市IP打造与达人种草获客",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 66,
+      "date": "2026/08/06",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "官宣扩散期",
+      "query": "漫展 展会 IP 国漫 快闪 打卡 门店 商圈",
+      "signals": [
+        "二次元/IP活动",
+        "IP",
+        "线下活动窗口",
+        "城市"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：红薯互娱：文旅地产小红书推广策略，城市IP打造与达人种草获客",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://www.adquan.com/article/362429",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-06T13:09:25.331Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "207c437b741c",
+      "title": "菅田将晖×二阶堂富美！新剧演绎戏剧人苦乐追梦史",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 66,
+      "date": "2025-09-17",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球 定档 开播 预告 主演",
+      "signals": [
+        "品牌宣发",
+        "出海",
+        "剧集/内容宣发",
+        "主演"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：菅田将晖×二阶堂富美！新剧演绎戏剧人苦乐追梦史",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://www.1905.com/news/20250917/1743748.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "9bd2d4add94d",
+      "title": "近日，由三谷幸喜编剧，菅田将晖主演，二阶堂富美、神木隆之介、滨边美波等出演的新剧《如果这个世界是一座舞台，后台究竟在哪里》释出海报。海……",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 66,
+      "date": "2025-09-17",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球 定档 开播 预告 主演",
+      "signals": [
+        "品牌宣发",
+        "出海",
+        "剧集/内容宣发",
+        "主演"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：近日，由三谷幸喜编剧，菅田将晖主演，二阶堂富美、神木隆之介、滨边美波等出演的新剧《如果这个世界是一座舞台，后台究竟在哪里》释出海报。海……",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://www.1905.com/news/",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "2c65fb80f850",
+      "title": "谁把自己的实体信息做得越清晰、越一致、越机器可读，谁就越容易在任何一个模型里被准确调用。实体，会成为 GEO 时代的硬通货。",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 66,
+      "date": "2026/08/03",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "品牌",
+        "全球",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：谁把自己的实体信息做得越清晰、越一致、越机器可读，谁就越容易在任何一个模型里被准确调用。实体，会成为 GEO 时代的硬通货。",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-03T11:35:48.953Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "c804573615d4",
+      "title": "AI已成新一代人的成长环境： 朴睿铂尔PCG Lab发布《AI原生世代：Z世代学习、工作与生活方式研究报告》",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 66,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "官宣扩散期",
+      "query": "漫展 展会 IP 国漫 快闪 打卡 门店 商圈",
+      "signals": [
+        "二次元/IP活动",
+        "IP",
+        "线下活动窗口",
+        "城市"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：AI已成新一代人的成长环境： 朴睿铂尔PCG Lab发布《AI原生世代：Z世代学习、工作与生活方式研究报告》",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://www.adquan.com/article/362447",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-06T13:09:25.331Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "fdbb06d9af80",
+      "title": "当前城市： 北京",
+      "type": "演唱会节点",
+      "confidence": "低",
+      "score": 65,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 秀动",
+      "stage": "机会观察期",
+      "query": "快闪 打卡 门店 商圈",
+      "signals": [
+        "线下活动窗口",
+        "城市"
+      ],
+      "object": "音乐节主办、Livehouse 主办、本地商圈",
+      "event": "秀动出现相关节点：当前城市： 北京",
+      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
+      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
+      "source": "https://www.showstart.com/",
+      "sourceName": "秀动",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:27:48.564Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "688a80b3c745",
+      "title": "揭秘2026年全球GEO数据：AI 会怎么对待你的品牌？",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 65,
+      "date": "2026/08/05",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "品牌",
+        "全球"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：揭秘2026年全球GEO数据：AI 会怎么对待你的品牌？",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/article/362325",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-03T11:35:48.953Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "796ae3840899",
+      "title": "齐爱云、张涛、同超领衔主演“秦腔名家专场”—《游西湖—鬼怨·杀生》《清风亭》",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 65,
+      "date": "2026.08.28",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "机会观察期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "主演"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：齐爱云、张涛、同超领衔主演“秦腔名家专场”—《游西湖—鬼怨·杀生》《清风亭》",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-07T05:56:45.878Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "d3e9004d1f54",
+      "title": "齐爱云·侯红琴·张涛·李敏领衔主演《秦腔经典专场》巡演·上海站",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 65,
+      "date": "2026.08.22",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "机会观察期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "主演"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：齐爱云·侯红琴·张涛·李敏领衔主演《秦腔经典专场》巡演·上海站",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-30T10:32:03.540Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "4247a68292f5",
+      "title": "秀动网（showstart.com） - 和热爱音乐的朋友开启原创音乐现场之旅",
+      "type": "演唱会节点",
+      "confidence": "低",
+      "score": 65,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 秀动",
+      "stage": "机会观察期",
+      "query": "快闪 打卡 门店 商圈",
+      "signals": [
+        "线下活动窗口",
+        "城市"
+      ],
+      "object": "音乐节主办、Livehouse 主办、本地商圈",
+      "event": "秀动出现相关节点：秀动网（showstart.com） - 和热爱音乐的朋友开启原创音乐现场之旅",
+      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
+      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
+      "source": "https://www.showstart.com/",
+      "sourceName": "秀动",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:27:48.564Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "f546670dd708",
+      "title": "AI 时代， 打造完美公关推介的完整指南",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 65,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球",
+        "传播"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：AI 时代， 打造完美公关推介的完整指南",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/mkt_events/sn_1069.shtml",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "567fff4708ad",
+      "title": "《花少》北斗七行开车追赶日出",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 新浪娱乐",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "官宣"
+      ],
+      "object": "艺人项目方、片方、平台宣发、粉丝组织",
+      "event": "新浪娱乐出现相关节点：《花少》北斗七行开车追赶日出",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://weibo.com/1642591402/NwWAguBQ6",
+      "sourceName": "新浪娱乐",
+      "sourceKind": "娱乐资讯",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "bd631a4f8407",
+      "title": "59岁郭富城证实又要当爸！小22岁爱妻方媛怀三胎",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2025-06-16",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "官宣"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：59岁郭富城证实又要当爸！小22岁爱妻方媛怀三胎",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.1905.com/news/20250616/1730246.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "914b358d0b3e",
+      "title": "6月15日，59岁的郭富城在出席活动时官宣37岁的妻子方媛怀三胎，并感谢大家的祝福，“又要当爸爸了，很开心！这是上天给的礼物，感谢大家关心。”郭……",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2025-06-16",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "官宣"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：6月15日，59岁的郭富城在出席活动时官宣37岁的妻子方媛怀三胎，并感谢大家的祝福，“又要当爸爸了，很开心！这是上天给的礼物，感谢大家关心。”郭……",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.1905.com/news/",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "c09db1d9b437",
+      "title": "霸王茶姬：翻翻绘本，让孩子气冒个泡",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 梅花网",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "梅花网出现相关节点：霸王茶姬：翻翻绘本，让孩子气冒个泡",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.meihua.info/shots/6910105244238848",
+      "sourceName": "梅花网",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-04T13:14:54.537Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "1575fe2b2f69",
+      "title": "哔哩哔哩联合戴荃发布2026毕业歌，送给每一位即将启航的毕业生们",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 梅花网",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "梅花网出现相关节点：哔哩哔哩联合戴荃发布2026毕业歌，送给每一位即将启航的毕业生们",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.meihua.info/shots/6886900006323200",
+      "sourceName": "梅花网",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-01T04:14:47.273Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "a50263f7450a",
+      "title": "参天公司作为高影响力合作伙伴应邀出席首届全球眼健康峰会",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026-08-07",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：参天公司作为高影响力合作伙伴应邀出席首届全球眼健康峰会",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/lightnews/lightnews-1-77-98143.shtml",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-06T10:46:50.735Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "f2c28ccfd303",
+      "title": "成毅官宣微博跨年开幕官",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 新浪娱乐",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "官宣"
+      ],
+      "object": "艺人项目方、片方、平台宣发、粉丝组织",
+      "event": "新浪娱乐出现相关节点：成毅官宣微博跨年开幕官",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://weibo.com/1642591402/Nx3QNmtNr",
+      "sourceName": "新浪娱乐",
+      "sourceKind": "娱乐资讯",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "a740fe204c17",
+      "title": "大家愿意为AI广告买单吗？我们研究了消费者对AI广告的真实态度",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：大家愿意为AI广告买单吗？我们研究了消费者对AI广告的真实态度",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/article/362427",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-05T10:43:52.314Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "76e782125b18",
+      "title": "带上Visa，世界杯说走就走~",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 梅花网",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "梅花网出现相关节点：带上Visa，世界杯说走就走~",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.meihua.info/shots/6888388553688064",
+      "sourceName": "梅花网",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-02T07:08:55.302Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "3326f71db6e8",
+      "title": "段子黑，让所有公关又爱又恨的“新技能”",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026/08/03",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：段子黑，让所有公关又爱又恨的“新技能”",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/article/362354",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-06T10:46:50.735Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "ad24c8a35910",
+      "title": "基于对全球 3000 多名记者的洞察，我们将系统解析成功推介的核心策略...",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：基于对全球 3000 多名记者的洞察，我们将系统解析成功推介的核心策略...",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "428ac5e38d6a",
+      "title": "戛纳幼狮全球金奖，创意诞生的24小时",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026-08-04",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 数英",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、代理公司、项目执行方",
+      "event": "数英出现相关节点：戛纳幼狮全球金奖，创意诞生的24小时",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.digitaling.com/articles/1551808.html",
+      "sourceName": "数英",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-04T10:47:12.421Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "355baf6f9ea6",
+      "title": "美通社官网-PR_Newswire-新闻稿发布-全球领先的企业新闻稿发布机构",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：美通社官网-PR_Newswire-新闻稿发布-全球领先的企业新闻稿发布机构",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "e62323ab248f",
+      "title": "苹果一组户外广告画风突变，让人差点没绷住。",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026/08/03",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：苹果一组户外广告画风突变，让人差点没绷住。",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-05T07:17:35.955Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "290340f0f6d2",
+      "title": "让那些真实发生过的犹豫、偶然、崩溃与惊喜，再发生一次。",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026-08-04",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 数英",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、代理公司、项目执行方",
+      "event": "数英出现相关节点：让那些真实发生过的犹豫、偶然、崩溃与惊喜，再发生一次。",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.digitaling.com/",
+      "sourceName": "数英",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-04T10:47:12.421Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "dd2672a32618",
+      "title": "所有破圈的内容本质上是对社会情绪的刺激。",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026-08-05",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 数英",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "传播"
+      ],
+      "object": "品牌市场部、代理公司、项目执行方",
+      "event": "数英出现相关节点：所有破圈的内容本质上是对社会情绪的刺激。",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.digitaling.com/",
+      "sourceName": "数英",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-05T07:17:35.955Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "827ce23fca5e",
+      "title": "优衣库发布2026秋冬新品，以全球都市灵感诠释LifeWear进化",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026/08/03",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：优衣库发布2026秋冬新品，以全球都市灵感诠释LifeWear进化",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/article/362355",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-04T03:56:37.844Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "db2746e8c802",
+      "title": "语言 (Languages)",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：语言 (Languages)",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "2152eeddf398",
+      "title": "中国主播采访诺兰火到海外，传播有点反常",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026-08-05",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 数英",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "传播"
+      ],
+      "object": "品牌市场部、代理公司、项目执行方",
+      "event": "数英出现相关节点：中国主播采访诺兰火到海外，传播有点反常",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.digitaling.com/articles/1554510.html",
+      "sourceName": "数英",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-05T07:17:35.955Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "fbb6d304021d",
+      "title": "Supermicro 第七届年度开放存储峰会汇聚 21 家生态系统合作伙伴，分享规模化部署企业级 AI 的实用指南",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026-08-07",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：Supermicro 第七届年度开放存储峰会汇聚 21 家生态系统合作伙伴，分享规模化部署企业级 AI 的实用指南",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/lightnews/lightnews-1-77-98149.shtml",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-07T03:42:37.525Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "59b2b2fe059f",
+      "title": "Worldchefs世界厨师联合会携手HOTELEX上海展首次落地全球厨师挑战赛",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026-08-06",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：Worldchefs世界厨师联合会携手HOTELEX上海展首次落地全球厨师挑战赛",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/lightnews/lightnews-1-77-98130.shtml",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-06T10:46:50.735Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "9a96c51c075a",
+      "title": "《超级少女》6.26上映 高燃星际冒险席卷大银幕",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 63,
+      "date": "6.26",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档",
+        "预告"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：《超级少女》6.26上映 高燃星际冒险席卷大银幕",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260626/1762134.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "91bc85d1f2a2",
+      "title": "二战尘封秘闻首登银幕!《诺曼底72小时》正在热映",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 63,
+      "date": "8.14",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档",
+        "预告"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：二战尘封秘闻首登银幕!《诺曼底72小时》正在热映",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260606/1761131.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "201a1ea689f8",
+      "title": "近日，剧集《夜魔侠：重生 第二季》宣布定档2026年3月4日于当地流媒体平台播出。剧集第二季共八集，于2025年2月在纽约开拍，导演贾斯汀·本森、……",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 63,
+      "date": "2026.3.4",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档",
+        "剧集"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：近日，剧集《夜魔侠：重生 第二季》宣布定档2026年3月4日于当地流媒体平台播出。剧集第二季共八集，于2025年2月在纽约开拍，导演贾斯汀·本森、……",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "a6641cf59269",
+      "title": "据外媒，“法鲨”迈克尔·法斯宾德将主演全新剧集《肯尼迪》。剧集由托马斯·温特伯格（《狩猎》《酒精计划》）执导，弗雷德里克·罗格瓦尔编剧……",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 63,
+      "date": "2025-10-23",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "机会观察期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "主演",
+        "剧集"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：据外媒，“法鲨”迈克尔·法斯宾德将主演全新剧集《肯尼迪》。剧集由托马斯·温特伯格（《狩猎》《酒精计划》）执导，弗雷德里克·罗格瓦尔编剧……",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "aa2295e96b3a",
+      "title": "马律师回归！剧集《夜魔侠：重生2》定档2026.3.4",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 63,
+      "date": "2026.3.4",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档",
+        "剧集"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：马律师回归！剧集《夜魔侠：重生2》定档2026.3.4",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20251021/1746942.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "2e26a1af0f4f",
+      "title": "舒淇主演《回魂计》定档10.9 挑战正义与人性界限",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 63,
+      "date": "2025-08-06",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档",
+        "主演"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：舒淇主演《回魂计》定档10.9 挑战正义与人性界限",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20250806/1737939.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "b97b92c2df5f",
+      "title": "《淬火年代》定档6.17 张新成、宋祖儿创业筑梦！",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "2025-06-13",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：《淬火年代》定档6.17 张新成、宋祖儿创业筑梦！",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.1905.com/news/20250613/1729995.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "b5a1280b179c",
+      "title": "《欢迎来龙餐馆》定档 IMAX特制拍摄异国烟火气",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：《欢迎来龙餐馆》定档 IMAX特制拍摄异国烟火气",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260806/1763901.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-07T03:42:37.525Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "ee3ac54c8854",
+      "title": "布拉德·皮特携战犬荒野求生 《野兽之心》曝预告",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "6.26",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "预告"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：布拉德·皮特携战犬荒野求生 《野兽之心》曝预告",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260612/1761374.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "cff21b0c808c",
+      "title": "电影《平安的女儿》宁德首映 聚焦国家级非遗“马仙信俗”",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "10月22日",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：电影《平安的女儿》宁德首映 聚焦国家级非遗“马仙信俗”",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260805/1763850.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-07T03:42:37.525Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "ee2f7ab01b04",
+      "title": "恶女除渣！惊悚电影《家弑服务》热映 尺度生猛",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "8.14",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：恶女除渣！惊悚电影《家弑服务》热映 尺度生猛",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260529/1760525.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "077e2fa47b2f",
+      "title": "法鲨归来！主演新剧《肯尼迪》聚焦著名政治家族",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "2025-10-23",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "机会观察期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "主演"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：法鲨归来！主演新剧《肯尼迪》聚焦著名政治家族",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20251023/1747238.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "472ff3875512",
+      "title": "恐龙惊现人类小区!惊悚片《逃出绝命街》定档8.14",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "6.26",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：恐龙惊现人类小区!惊悚片《逃出绝命街》定档8.14",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260608/1761132.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
+    },
+    {
+      "id": "ffabfbd11434",
+      "title": "雷淞然张呈谈出演《大唐妖探》 众喜人助阵首映",
+      "type": "剧集宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 1905电影网",
+      "stage": "官宣扩散期",
+      "query": "定档 开播 预告 主演",
+      "signals": [
+        "剧集/内容宣发",
+        "定档"
+      ],
+      "object": "片方、发行公司、平台宣发、主演项目团队",
+      "event": "1905电影网出现相关节点：雷淞然张呈谈出演《大唐妖探》 众喜人助阵首映",
+      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
+      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
+      "source": "https://www.1905.com/news/20260807/1763972.shtml",
+      "sourceName": "1905电影网",
+      "sourceKind": "影视宣发",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-07T05:56:45.878Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "86a785a7538e",
@@ -1681,99 +3895,6 @@
       "sourceKind": "票务平台",
       "collectedAt": "2026-08-07T03:42:37.525Z",
       "firstSeenAt": "2026-07-27T08:03:50.688Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "70b0a30cfe80",
-      "title": "歌者归来超级歌会一上海站（中秋特别场）",
-      "type": "演唱会节点",
-      "confidence": "低",
-      "score": 69,
-      "date": "2026.09.05",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会",
-        "巡回"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：歌者归来超级歌会一上海站（中秋特别场）",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-27T11:33:52.135Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "4c82215c1ebb",
-      "title": "李荣浩「黑马」世界巡回演唱会-上海站",
-      "type": "演唱会节点",
-      "confidence": "低",
-      "score": 69,
-      "date": "2026.09.25 / 09.26",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会",
-        "巡回"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：李荣浩「黑马」世界巡回演唱会-上海站",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-06T07:18:58.221Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "1dd2b6121371",
-      "title": "林宥嘉《超级管家》巡回演唱会 上海站",
-      "type": "演唱会节点",
-      "confidence": "低",
-      "score": 69,
-      "date": "2026.08.15 / 08.16",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会",
-        "巡回"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：林宥嘉《超级管家》巡回演唱会 上海站",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:00:03.106Z",
       "lastSeenAt": "2026-08-07T03:42:37.525Z"
     },
     {
@@ -1809,126 +3930,6 @@
       "lastSeenAt": "2026-08-07T03:42:37.525Z"
     },
     {
-      "id": "cf6c3856220d",
-      "title": "“我心永恒”“昨日重现”唯美经典英文歌曲沉浸式演唱会",
-      "type": "线下活动窗口",
-      "confidence": "低",
-      "score": 68,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 秀动",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "音乐节主办、Livehouse 主办、本地商圈",
-      "event": "秀动出现相关节点：“我心永恒”“昨日重现”唯美经典英文歌曲沉浸式演唱会",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://www.showstart.com/",
-      "sourceName": "秀动",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-06T13:09:25.331Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "4875743b45de",
-      "title": "《从披头士到酷玩》·英伦回响致敬演唱会",
-      "type": "演唱会节点",
-      "confidence": "低",
-      "score": 68,
-      "date": "2026.09.25",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：《从披头士到酷玩》·英伦回响致敬演唱会",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-26T04:21:19.921Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "48f6d51b4574",
-      "title": "《天涯共此时》·国风武侠金曲演唱会 | 江湖再相逢",
-      "type": "演唱会节点",
-      "confidence": "低",
-      "score": 68,
-      "date": "2026.08.22",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：《天涯共此时》·国风武侠金曲演唱会 | 江湖再相逢",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-26T04:21:19.921Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "cf9562b2a2ff",
-      "title": "《雾里观花》煌xb专场北京站特别演出",
-      "type": "线下活动窗口",
-      "confidence": "低",
-      "score": 68,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 秀动",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "音乐节主办、Livehouse 主办、本地商圈",
-      "event": "秀动出现相关节点：《雾里观花》煌xb专场北京站特别演出",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://www.showstart.com/",
-      "sourceName": "秀动",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-06T13:09:25.331Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
       "id": "4f49eeff22fc",
       "title": "《重返未来：1999》音乐会 众声漫游夜",
       "type": "演唱会节点",
@@ -1956,216 +3957,6 @@
       "sourceKind": "票务平台",
       "collectedAt": "2026-08-07T03:42:37.525Z",
       "firstSeenAt": "2026-08-06T07:18:58.221Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "b5e06a75ad5e",
-      "title": "2026“爱之传奇”迈克学摇滚演唱会",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 68,
-      "date": "2026.09.12",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：2026“爱之传奇”迈克学摇滚演唱会",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-05T03:52:12.730Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "639f0a9cfca9",
-      "title": "2026WAGF 刘嘉卓&宗克.梅恩2026《不一样的声音》北京站",
-      "type": "线下活动窗口",
-      "confidence": "低",
-      "score": 68,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 秀动",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "音乐节主办、Livehouse 主办、本地商圈",
-      "event": "秀动出现相关节点：2026WAGF 刘嘉卓&宗克.梅恩2026《不一样的声音》北京站",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://www.showstart.com/",
-      "sourceName": "秀动",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-06T13:09:25.331Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "0cc0333084a4",
-      "title": "春华秋实谱华章——迎国庆沪剧交响演唱会",
-      "type": "演唱会节点",
-      "confidence": "低",
-      "score": 68,
-      "date": "2026.10.07",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：春华秋实谱华章——迎国庆沪剧交响演唱会",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-31T10:47:34.659Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "fc9c54df1635",
-      "title": "弗兰克·怀德霍恩和他的朋友们音乐会 Frank Wildhorn & Friends Gala Concert",
-      "type": "演唱会节点",
-      "confidence": "低",
-      "score": 68,
-      "date": "2026.11.20 / 11.21",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "concert"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：弗兰克·怀德霍恩和他的朋友们音乐会 Frank Wildhorn & Friends Gala Concert",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "1fe6b14f6707",
-      "title": "古谱诗词音乐会《能不忆江南》",
-      "type": "演唱会节点",
-      "confidence": "低",
-      "score": 68,
-      "date": "2026.10.17",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "音乐节"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：古谱诗词音乐会《能不忆江南》",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-06T10:46:50.735Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "25f4e068a485",
-      "title": "今夜星光灿烂——阿格里奇/文格洛夫/伊瑟利斯领衔室内乐音乐节",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 68,
-      "date": "2026.09.06",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "音乐节"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：今夜星光灿烂——阿格里奇/文格洛夫/伊瑟利斯领衔室内乐音乐节",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-06T03:56:49.980Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "6f8deac7e63b",
-      "title": "魔力sir家族演唱会-上海站",
-      "type": "演唱会节点",
-      "confidence": "低",
-      "score": 68,
-      "date": "2026.08.22",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：魔力sir家族演唱会-上海站",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-16T07:03:13.837Z",
       "lastSeenAt": "2026-08-07T03:42:37.525Z"
     },
     {
@@ -2201,306 +3992,6 @@
       "lastSeenAt": "2026-08-07T03:42:37.525Z"
     },
     {
-      "id": "853315daa669",
-      "title": "【奇妙嘿夜】烛光音乐会”爱乐之城“&“权力的游戏”双主题钢琴&小提琴&大提琴",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 67,
-      "date": "2026.10.24 / 10.25",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "演出节点期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "游戏"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：【奇妙嘿夜】烛光音乐会”爱乐之城“&“权力的游戏”双主题钢琴&小提琴&大提琴",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-05T10:43:52.314Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "c2dd6dc4a124",
-      "title": "【中数“第二现场”】安徽省黄梅戏剧院传统黄梅戏《牛郎织女》直播",
-      "type": "线下活动窗口",
-      "confidence": "低",
-      "score": 67,
-      "date": "2026.08.12 - 08.18",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "机会观察期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "周年"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：【中数“第二现场”】安徽省黄梅戏剧院传统黄梅戏《牛郎织女》直播",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-05T03:52:12.730Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "db27ace3aea5",
-      "title": "李蕾讲经典五周年——她要开自己的花",
-      "type": "线下活动窗口",
-      "confidence": "低",
-      "score": 67,
-      "date": "2026.08.19",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "机会观察期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "周年"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：李蕾讲经典五周年——她要开自己的花",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-04T03:56:37.844Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "0d475342baaf",
-      "title": "上海爱乐乐团2026-2027音乐季 室内乐音乐会《浮光欧罗巴》",
-      "type": "线下活动窗口",
-      "confidence": "低",
-      "score": 67,
-      "date": "2026.08.08 - 2026.08.28",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "机会观察期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "游戏"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：上海爱乐乐团2026-2027音乐季 室内乐音乐会《浮光欧罗巴》",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-05T10:43:52.314Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "01adadaa6295",
-      "title": "曜时空VR影乐园·AI火星农场·小时代XR电影",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 67,
-      "date": "2025.07.22 - 2026.09.30",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "机会观察期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "游戏"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：曜时空VR影乐园·AI火星农场·小时代XR电影",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "74ea98ce84b6",
-      "title": "原创肢体儿童剧《XUANXUAN的奇妙夜》",
-      "type": "线下活动窗口",
-      "confidence": "低",
-      "score": 67,
-      "date": "2026.08.15",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "机会观察期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "周年"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：原创肢体儿童剧《XUANXUAN的奇妙夜》",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-04T03:56:37.844Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "3f4d3691af26",
-      "title": "走进宫崎骏的童话世界-工作坊系列",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 67,
-      "date": "2026.08.22 / 08.23",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "机会观察期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "漫展"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：走进宫崎骏的童话世界-工作坊系列",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-29T10:46:25.699Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "8bdd6caa2606",
-      "title": "bilibili会员购",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 67,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 B站会员购",
-      "stage": "机会观察期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "Bilibili"
-      ],
-      "object": "IP方、展会主办、游戏发行方、品牌联名团队",
-      "event": "B站会员购出现相关节点：bilibili会员购",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://show.bilibili.com/",
-      "sourceName": "B站会员购",
-      "sourceKind": "二次元/IP活动",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "1efbfc238591",
-      "title": "BW2026，次元新航线！",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 67,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 Bilibili World",
-      "stage": "机会观察期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "BW"
-      ],
-      "object": "展会主办、品牌合作方、IP合作方",
-      "event": "Bilibili World出现相关节点：BW2026，次元新航线！",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://bw.bilibili.com/",
-      "sourceName": "Bilibili World",
-      "sourceKind": "二次元/IP活动",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "09a324db3a51",
-      "title": "Paradox《群星》十周年纪念交响音乐会上海场",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 67,
-      "date": "2026.08.16",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "机会观察期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "周年"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：Paradox《群星》十周年纪念交响音乐会上海场",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
       "id": "c2574414028d",
       "title": "澳尔滨官宣品牌代言人许凯",
       "type": "品牌宣发",
@@ -2530,257 +4021,6 @@
       "sourceKind": "品牌营销",
       "collectedAt": "2026-08-07T03:42:37.525Z",
       "firstSeenAt": "2026-08-05T07:17:35.955Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "536adb09f026",
-      "title": "第十四届梅花创新奖（Mawards）终审评委招募正式启动！",
-      "type": "粉丝生日应援",
-      "confidence": "低",
-      "score": 66,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 梅花网",
-      "stage": "企划征集期",
-      "query": "生日 生贺 应援 招募",
-      "signals": [
-        "粉丝生日应援",
-        "招募"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "梅花网出现相关节点：第十四届梅花创新奖（Mawards）终审评委招募正式启动！",
-      "opportunity": "可切入生日屏、城市地标屏、交通媒体、主题打卡和公益联动。",
-      "next": "看到你们在筹备生日节点，如果城市和形式还没完全确定，我们可以先给一版应援组合建议。",
-      "source": "https://www.meihua.info/article/6950730118153216",
-      "sourceName": "梅花网",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-06T07:18:58.221Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "58bd7b1528ec",
-      "title": "红薯互娱：文旅地产小红书推广策略，城市IP打造与达人种草获客",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 66,
-      "date": "2026/08/06",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "官宣扩散期",
-      "query": "漫展 展会 IP 国漫 快闪 打卡 门店 商圈",
-      "signals": [
-        "二次元/IP活动",
-        "IP",
-        "线下活动窗口",
-        "城市"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：红薯互娱：文旅地产小红书推广策略，城市IP打造与达人种草获客",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://www.adquan.com/article/362429",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-06T13:09:25.331Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "207c437b741c",
-      "title": "菅田将晖×二阶堂富美！新剧演绎戏剧人苦乐追梦史",
-      "type": "线下活动窗口",
-      "confidence": "低",
-      "score": 66,
-      "date": "2025-09-17",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球 定档 开播 预告 主演",
-      "signals": [
-        "品牌宣发",
-        "出海",
-        "剧集/内容宣发",
-        "主演"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：菅田将晖×二阶堂富美！新剧演绎戏剧人苦乐追梦史",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://www.1905.com/news/20250917/1743748.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "9bd2d4add94d",
-      "title": "近日，由三谷幸喜编剧，菅田将晖主演，二阶堂富美、神木隆之介、滨边美波等出演的新剧《如果这个世界是一座舞台，后台究竟在哪里》释出海报。海……",
-      "type": "线下活动窗口",
-      "confidence": "低",
-      "score": 66,
-      "date": "2025-09-17",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球 定档 开播 预告 主演",
-      "signals": [
-        "品牌宣发",
-        "出海",
-        "剧集/内容宣发",
-        "主演"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：近日，由三谷幸喜编剧，菅田将晖主演，二阶堂富美、神木隆之介、滨边美波等出演的新剧《如果这个世界是一座舞台，后台究竟在哪里》释出海报。海……",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://www.1905.com/news/",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "2c65fb80f850",
-      "title": "谁把自己的实体信息做得越清晰、越一致、越机器可读，谁就越容易在任何一个模型里被准确调用。实体，会成为 GEO 时代的硬通货。",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 66,
-      "date": "2026/08/03",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "品牌",
-        "全球",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：谁把自己的实体信息做得越清晰、越一致、越机器可读，谁就越容易在任何一个模型里被准确调用。实体，会成为 GEO 时代的硬通货。",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-03T11:35:48.953Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "c804573615d4",
-      "title": "AI已成新一代人的成长环境： 朴睿铂尔PCG Lab发布《AI原生世代：Z世代学习、工作与生活方式研究报告》",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 66,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "官宣扩散期",
-      "query": "漫展 展会 IP 国漫 快闪 打卡 门店 商圈",
-      "signals": [
-        "二次元/IP活动",
-        "IP",
-        "线下活动窗口",
-        "城市"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：AI已成新一代人的成长环境： 朴睿铂尔PCG Lab发布《AI原生世代：Z世代学习、工作与生活方式研究报告》",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://www.adquan.com/article/362447",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-06T13:09:25.331Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "fdbb06d9af80",
-      "title": "当前城市： 北京",
-      "type": "演唱会节点",
-      "confidence": "低",
-      "score": 65,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 秀动",
-      "stage": "机会观察期",
-      "query": "快闪 打卡 门店 商圈",
-      "signals": [
-        "线下活动窗口",
-        "城市"
-      ],
-      "object": "音乐节主办、Livehouse 主办、本地商圈",
-      "event": "秀动出现相关节点：当前城市： 北京",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://www.showstart.com/",
-      "sourceName": "秀动",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "688a80b3c745",
-      "title": "揭秘2026年全球GEO数据：AI 会怎么对待你的品牌？",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 65,
-      "date": "2026/08/05",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "品牌",
-        "全球"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：揭秘2026年全球GEO数据：AI 会怎么对待你的品牌？",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/article/362325",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-03T11:35:48.953Z",
       "lastSeenAt": "2026-08-07T03:42:37.525Z"
     },
     {
@@ -2844,457 +4084,6 @@
       "lastSeenAt": "2026-08-07T03:42:37.525Z"
     },
     {
-      "id": "d3e9004d1f54",
-      "title": "齐爱云·侯红琴·张涛·李敏领衔主演《秦腔经典专场》巡演·上海站",
-      "type": "线下活动窗口",
-      "confidence": "低",
-      "score": 65,
-      "date": "2026.08.22",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "机会观察期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "主演"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：齐爱云·侯红琴·张涛·李敏领衔主演《秦腔经典专场》巡演·上海站",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-30T10:32:03.540Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "4247a68292f5",
-      "title": "秀动网（showstart.com） - 和热爱音乐的朋友开启原创音乐现场之旅",
-      "type": "演唱会节点",
-      "confidence": "低",
-      "score": 65,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 秀动",
-      "stage": "机会观察期",
-      "query": "快闪 打卡 门店 商圈",
-      "signals": [
-        "线下活动窗口",
-        "城市"
-      ],
-      "object": "音乐节主办、Livehouse 主办、本地商圈",
-      "event": "秀动出现相关节点：秀动网（showstart.com） - 和热爱音乐的朋友开启原创音乐现场之旅",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://www.showstart.com/",
-      "sourceName": "秀动",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "f546670dd708",
-      "title": "AI 时代， 打造完美公关推介的完整指南",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 65,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球",
-        "传播"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：AI 时代， 打造完美公关推介的完整指南",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/mkt_events/sn_1069.shtml",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "567fff4708ad",
-      "title": "《花少》北斗七行开车追赶日出",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 新浪娱乐",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "官宣"
-      ],
-      "object": "艺人项目方、片方、平台宣发、粉丝组织",
-      "event": "新浪娱乐出现相关节点：《花少》北斗七行开车追赶日出",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://weibo.com/1642591402/NwWAguBQ6",
-      "sourceName": "新浪娱乐",
-      "sourceKind": "娱乐资讯",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "bd631a4f8407",
-      "title": "59岁郭富城证实又要当爸！小22岁爱妻方媛怀三胎",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2025-06-16",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "官宣"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：59岁郭富城证实又要当爸！小22岁爱妻方媛怀三胎",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.1905.com/news/20250616/1730246.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "914b358d0b3e",
-      "title": "6月15日，59岁的郭富城在出席活动时官宣37岁的妻子方媛怀三胎，并感谢大家的祝福，“又要当爸爸了，很开心！这是上天给的礼物，感谢大家关心。”郭……",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2025-06-16",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "官宣"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：6月15日，59岁的郭富城在出席活动时官宣37岁的妻子方媛怀三胎，并感谢大家的祝福，“又要当爸爸了，很开心！这是上天给的礼物，感谢大家关心。”郭……",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.1905.com/news/",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "a50263f7450a",
-      "title": "参天公司作为高影响力合作伙伴应邀出席首届全球眼健康峰会",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026-08-07",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：参天公司作为高影响力合作伙伴应邀出席首届全球眼健康峰会",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/lightnews/lightnews-1-77-98143.shtml",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-06T10:46:50.735Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "f2c28ccfd303",
-      "title": "成毅官宣微博跨年开幕官",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 新浪娱乐",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "官宣"
-      ],
-      "object": "艺人项目方、片方、平台宣发、粉丝组织",
-      "event": "新浪娱乐出现相关节点：成毅官宣微博跨年开幕官",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://weibo.com/1642591402/Nx3QNmtNr",
-      "sourceName": "新浪娱乐",
-      "sourceKind": "娱乐资讯",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "a740fe204c17",
-      "title": "大家愿意为AI广告买单吗？我们研究了消费者对AI广告的真实态度",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：大家愿意为AI广告买单吗？我们研究了消费者对AI广告的真实态度",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/article/362427",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-05T10:43:52.314Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "3326f71db6e8",
-      "title": "段子黑，让所有公关又爱又恨的“新技能”",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026/08/03",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：段子黑，让所有公关又爱又恨的“新技能”",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/article/362354",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-06T10:46:50.735Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "ad24c8a35910",
-      "title": "基于对全球 3000 多名记者的洞察，我们将系统解析成功推介的核心策略...",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：基于对全球 3000 多名记者的洞察，我们将系统解析成功推介的核心策略...",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "428ac5e38d6a",
-      "title": "戛纳幼狮全球金奖，创意诞生的24小时",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026-08-04",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 数英",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、代理公司、项目执行方",
-      "event": "数英出现相关节点：戛纳幼狮全球金奖，创意诞生的24小时",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.digitaling.com/articles/1551808.html",
-      "sourceName": "数英",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-04T10:47:12.421Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "355baf6f9ea6",
-      "title": "美通社官网-PR_Newswire-新闻稿发布-全球领先的企业新闻稿发布机构",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：美通社官网-PR_Newswire-新闻稿发布-全球领先的企业新闻稿发布机构",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "e62323ab248f",
-      "title": "苹果一组户外广告画风突变，让人差点没绷住。",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026/08/03",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：苹果一组户外广告画风突变，让人差点没绷住。",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-05T07:17:35.955Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "290340f0f6d2",
-      "title": "让那些真实发生过的犹豫、偶然、崩溃与惊喜，再发生一次。",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026-08-04",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 数英",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、代理公司、项目执行方",
-      "event": "数英出现相关节点：让那些真实发生过的犹豫、偶然、崩溃与惊喜，再发生一次。",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.digitaling.com/",
-      "sourceName": "数英",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-04T10:47:12.421Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
       "id": "923a3113aa83",
       "title": "瑞幸一开业，大饼店的生意就好起来了？",
       "type": "品牌宣发",
@@ -3322,36 +4111,6 @@
       "sourceKind": "品牌营销",
       "collectedAt": "2026-08-07T03:42:37.525Z",
       "firstSeenAt": "2026-07-25T06:40:17.443Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "dd2672a32618",
-      "title": "所有破圈的内容本质上是对社会情绪的刺激。",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026-08-05",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 数英",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "传播"
-      ],
-      "object": "品牌市场部、代理公司、项目执行方",
-      "event": "数英出现相关节点：所有破圈的内容本质上是对社会情绪的刺激。",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.digitaling.com/",
-      "sourceName": "数英",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-05T07:17:35.955Z",
       "lastSeenAt": "2026-08-07T03:42:37.525Z"
     },
     {
@@ -3385,342 +4144,6 @@
       "lastSeenAt": "2026-08-07T03:42:37.525Z"
     },
     {
-      "id": "827ce23fca5e",
-      "title": "优衣库发布2026秋冬新品，以全球都市灵感诠释LifeWear进化",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026/08/03",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：优衣库发布2026秋冬新品，以全球都市灵感诠释LifeWear进化",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/article/362355",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-04T03:56:37.844Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "db2746e8c802",
-      "title": "语言 (Languages)",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：语言 (Languages)",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "2152eeddf398",
-      "title": "中国主播采访诺兰火到海外，传播有点反常",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026-08-05",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 数英",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "传播"
-      ],
-      "object": "品牌市场部、代理公司、项目执行方",
-      "event": "数英出现相关节点：中国主播采访诺兰火到海外，传播有点反常",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.digitaling.com/articles/1554510.html",
-      "sourceName": "数英",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-05T07:17:35.955Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "fbb6d304021d",
-      "title": "Supermicro 第七届年度开放存储峰会汇聚 21 家生态系统合作伙伴，分享规模化部署企业级 AI 的实用指南",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026-08-07",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：Supermicro 第七届年度开放存储峰会汇聚 21 家生态系统合作伙伴，分享规模化部署企业级 AI 的实用指南",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/lightnews/lightnews-1-77-98149.shtml",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-07T03:42:37.525Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "59b2b2fe059f",
-      "title": "Worldchefs世界厨师联合会携手HOTELEX上海展首次落地全球厨师挑战赛",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026-08-06",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：Worldchefs世界厨师联合会携手HOTELEX上海展首次落地全球厨师挑战赛",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/lightnews/lightnews-1-77-98130.shtml",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-06T10:46:50.735Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "9a96c51c075a",
-      "title": "《超级少女》6.26上映 高燃星际冒险席卷大银幕",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 63,
-      "date": "6.26",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档",
-        "预告"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：《超级少女》6.26上映 高燃星际冒险席卷大银幕",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260626/1762134.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "91bc85d1f2a2",
-      "title": "二战尘封秘闻首登银幕!《诺曼底72小时》正在热映",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 63,
-      "date": "8.14",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档",
-        "预告"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：二战尘封秘闻首登银幕!《诺曼底72小时》正在热映",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260606/1761131.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "201a1ea689f8",
-      "title": "近日，剧集《夜魔侠：重生 第二季》宣布定档2026年3月4日于当地流媒体平台播出。剧集第二季共八集，于2025年2月在纽约开拍，导演贾斯汀·本森、……",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 63,
-      "date": "2026.3.4",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档",
-        "剧集"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：近日，剧集《夜魔侠：重生 第二季》宣布定档2026年3月4日于当地流媒体平台播出。剧集第二季共八集，于2025年2月在纽约开拍，导演贾斯汀·本森、……",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "a6641cf59269",
-      "title": "据外媒，“法鲨”迈克尔·法斯宾德将主演全新剧集《肯尼迪》。剧集由托马斯·温特伯格（《狩猎》《酒精计划》）执导，弗雷德里克·罗格瓦尔编剧……",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 63,
-      "date": "2025-10-23",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "机会观察期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "主演",
-        "剧集"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：据外媒，“法鲨”迈克尔·法斯宾德将主演全新剧集《肯尼迪》。剧集由托马斯·温特伯格（《狩猎》《酒精计划》）执导，弗雷德里克·罗格瓦尔编剧……",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "aa2295e96b3a",
-      "title": "马律师回归！剧集《夜魔侠：重生2》定档2026.3.4",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 63,
-      "date": "2026.3.4",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档",
-        "剧集"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：马律师回归！剧集《夜魔侠：重生2》定档2026.3.4",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20251021/1746942.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "2e26a1af0f4f",
-      "title": "舒淇主演《回魂计》定档10.9 挑战正义与人性界限",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 63,
-      "date": "2025-08-06",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档",
-        "主演"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：舒淇主演《回魂计》定档10.9 挑战正义与人性界限",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20250806/1737939.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
       "id": "c849805a882e",
       "title": "《八卦楼》首映 导演金霞：它装下厦门的百年风雨‌",
       "type": "剧集宣发",
@@ -3751,186 +4174,6 @@
       "lastSeenAt": "2026-08-07T03:42:37.525Z"
     },
     {
-      "id": "b97b92c2df5f",
-      "title": "《淬火年代》定档6.17 张新成、宋祖儿创业筑梦！",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "2025-06-13",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：《淬火年代》定档6.17 张新成、宋祖儿创业筑梦！",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.1905.com/news/20250613/1729995.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "b5a1280b179c",
-      "title": "《欢迎来龙餐馆》定档 IMAX特制拍摄异国烟火气",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：《欢迎来龙餐馆》定档 IMAX特制拍摄异国烟火气",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260806/1763901.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-07T03:42:37.525Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "ee3ac54c8854",
-      "title": "布拉德·皮特携战犬荒野求生 《野兽之心》曝预告",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "6.26",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "预告"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：布拉德·皮特携战犬荒野求生 《野兽之心》曝预告",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260612/1761374.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "cff21b0c808c",
-      "title": "电影《平安的女儿》宁德首映 聚焦国家级非遗“马仙信俗”",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "10月22日",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：电影《平安的女儿》宁德首映 聚焦国家级非遗“马仙信俗”",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260805/1763850.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-07T03:42:37.525Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "ee2f7ab01b04",
-      "title": "恶女除渣！惊悚电影《家弑服务》热映 尺度生猛",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "8.14",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：恶女除渣！惊悚电影《家弑服务》热映 尺度生猛",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260529/1760525.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "077e2fa47b2f",
-      "title": "法鲨归来！主演新剧《肯尼迪》聚焦著名政治家族",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "2025-10-23",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "机会观察期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "主演"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：法鲨归来！主演新剧《肯尼迪》聚焦著名政治家族",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20251023/1747238.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
       "id": "2b241498b3ef",
       "title": "共赴终极决战 《八仙！》曝“一起上！”战斗海报",
       "type": "剧集宣发",
@@ -3958,36 +4201,6 @@
       "sourceKind": "影视宣发",
       "collectedAt": "2026-08-07T03:42:37.525Z",
       "firstSeenAt": "2026-07-31T07:24:56.089Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
-      "id": "472ff3875512",
-      "title": "恐龙惊现人类小区!惊悚片《逃出绝命街》定档8.14",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "6.26",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：恐龙惊现人类小区!惊悚片《逃出绝命街》定档8.14",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260608/1761132.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
       "lastSeenAt": "2026-08-07T03:42:37.525Z"
     },
     {
@@ -4081,36 +4294,6 @@
       "sourceKind": "票务平台",
       "collectedAt": "2026-08-06T13:09:25.331Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-08-06T13:09:25.331Z"
-    },
-    {
-      "id": "1575fe2b2f69",
-      "title": "哔哩哔哩联合戴荃发布2026毕业歌，送给每一位即将启航的毕业生们",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 梅花网",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "梅花网出现相关节点：哔哩哔哩联合戴荃发布2026毕业歌，送给每一位即将启航的毕业生们",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.meihua.info/shots/6886900006323200",
-      "sourceName": "梅花网",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-06T13:09:25.331Z",
-      "firstSeenAt": "2026-08-01T04:14:47.273Z",
       "lastSeenAt": "2026-08-06T13:09:25.331Z"
     },
     {
@@ -6392,36 +6575,6 @@
       "lastSeenAt": "2026-08-04T13:14:54.537Z"
     },
     {
-      "id": "c09db1d9b437",
-      "title": "霸王茶姬：翻翻绘本，让孩子气冒个泡",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 梅花网",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "梅花网出现相关节点：霸王茶姬：翻翻绘本，让孩子气冒个泡",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.meihua.info/shots/6910105244238848",
-      "sourceName": "梅花网",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-04T13:14:54.537Z",
-      "firstSeenAt": "2026-08-04T13:14:54.537Z",
-      "lastSeenAt": "2026-08-04T13:14:54.537Z"
-    },
-    {
       "id": "aa92517c0e6f",
       "title": "雪山之上，设计共生：丽江金茂璞修雪山酒店携手 Design Hotels™ ，8月4日全球上线启幕",
       "type": "品牌宣发",
@@ -7893,36 +8046,6 @@
       "sourceKind": "娱乐资讯",
       "collectedAt": "2026-08-03T04:22:46.620Z",
       "firstSeenAt": "2026-08-03T04:22:46.620Z",
-      "lastSeenAt": "2026-08-03T04:22:46.620Z"
-    },
-    {
-      "id": "76e782125b18",
-      "title": "带上Visa，世界杯说走就走~",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 梅花网",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "梅花网出现相关节点：带上Visa，世界杯说走就走~",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.meihua.info/shots/6888388553688064",
-      "sourceName": "梅花网",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-03T04:22:46.620Z",
-      "firstSeenAt": "2026-08-02T07:08:55.302Z",
       "lastSeenAt": "2026-08-03T04:22:46.620Z"
     },
     {
@@ -10045,220 +10168,6 @@
       "collectedAt": "2026-07-31T07:24:56.089Z",
       "firstSeenAt": "2026-07-31T07:24:56.089Z",
       "lastSeenAt": "2026-07-31T07:24:56.089Z"
-    },
-    {
-      "id": "a39fca14c4ba",
-      "title": "古影沉浸式互动游戏剧场 《1941·新和医院》",
-      "type": "线下活动窗口",
-      "confidence": "中",
-      "score": 72,
-      "date": "2026.08.01 - 08.30",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "开票窗口期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "游戏"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：古影沉浸式互动游戏剧场 《1941·新和医院》",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-07-31T04:15:23.496Z",
-      "firstSeenAt": "2026-07-29T03:57:18.319Z",
-      "lastSeenAt": "2026-07-31T04:15:23.496Z"
-    },
-    {
-      "id": "271f73c9205d",
-      "title": "王小卤和黄健翔，在世界杯期间发明了一个“新动作”？",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 66,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "线下执行期",
-      "query": "品牌 官宣 代言 全球 快闪 打卡 门店 商圈",
-      "signals": [
-        "品牌宣发",
-        "品牌",
-        "线下活动窗口",
-        "快闪"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：王小卤和黄健翔，在世界杯期间发明了一个“新动作”？",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/article/362143",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-31T04:15:23.496Z",
-      "firstSeenAt": "2026-07-29T07:22:31.848Z",
-      "lastSeenAt": "2026-07-31T04:15:23.496Z"
-    },
-    {
-      "id": "b4c621e11944",
-      "title": "杨紫成为宝曼兰朵全球品牌代言人",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 66,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 SocialBeta",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "品牌",
-        "代言",
-        "全球"
-      ],
-      "object": "品牌市场部、代理公司、内容营销团队",
-      "event": "SocialBeta出现相关节点：杨紫成为宝曼兰朵全球品牌代言人",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://socialbeta.com/campaign/28039",
-      "sourceName": "SocialBeta",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-31T04:15:23.496Z",
-      "firstSeenAt": "2026-07-29T07:22:31.848Z",
-      "lastSeenAt": "2026-07-31T04:15:23.496Z"
-    },
-    {
-      "id": "c90c55d8efc2",
-      "title": "宏盟宣布合并两大媒介代理机构 , 组建全新全球媒介网络",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026/07/28",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：宏盟宣布合并两大媒介代理机构 , 组建全新全球媒介网络",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/article/362061",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-31T04:15:23.496Z",
-      "firstSeenAt": "2026-07-21T10:31:37.374Z",
-      "lastSeenAt": "2026-07-31T04:15:23.496Z"
-    },
-    {
-      "id": "8e98fb97bc2f",
-      "title": "小红书慢人节3.0：慢慢来，样样好",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "3.0",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 梅花网",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "梅花网出现相关节点：小红书慢人节3.0：慢慢来，样样好",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.meihua.info/shots/6897099469915136",
-      "sourceName": "梅花网",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-31T04:15:23.496Z",
-      "firstSeenAt": "2026-07-12T07:08:06.863Z",
-      "lastSeenAt": "2026-07-31T04:15:23.496Z"
-    },
-    {
-      "id": "1fbbcbd2a742",
-      "title": "阳狮获得阿迪达斯中国区1.85亿美元媒介业务",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026/07/28",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：阳狮获得阿迪达斯中国区1.85亿美元媒介业务",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/article/362122",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-07-31T04:15:23.496Z",
-      "firstSeenAt": "2026-07-23T12:58:10.348Z",
-      "lastSeenAt": "2026-07-31T04:15:23.496Z"
-    },
-    {
-      "id": "17e0ea205faf",
-      "title": "《激情首星·东方红一号》研讨 伴飞卫星实拍太空",
-      "type": "剧集宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 1905电影网",
-      "stage": "官宣扩散期",
-      "query": "定档 开播 预告 主演",
-      "signals": [
-        "剧集/内容宣发",
-        "定档"
-      ],
-      "object": "片方、发行公司、平台宣发、主演项目团队",
-      "event": "1905电影网出现相关节点：《激情首星·东方红一号》研讨 伴飞卫星实拍太空",
-      "opportunity": "适合用开播节点、角色热度、主演粉丝应援和一日屏做短周期扩散。",
-      "next": "如果开播期还需要线下补热度，可以用商圈屏和城市打卡做一轮短周期扩散。",
-      "source": "https://www.1905.com/news/20260729/1763551.shtml",
-      "sourceName": "1905电影网",
-      "sourceKind": "影视宣发",
-      "collectedAt": "2026-07-31T04:15:23.496Z",
-      "firstSeenAt": "2026-07-30T03:49:28.690Z",
-      "lastSeenAt": "2026-07-31T04:15:23.496Z"
     }
   ],
   "leads": [
@@ -10386,9 +10295,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-04T07:16:25.194Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "b755b4c47274",
@@ -10583,8 +10492,8 @@
       "lastSeenAt": "2026-07-31T13:13:26.662Z"
     },
     {
-      "id": "49cc1aac47ed",
-      "title": "UNKNOWN 袁一琦2026个人巡回演唱会-上海站",
+      "id": "05ef919f0e04",
+      "title": "石凯「时空乐园」2026巡回演唱会-上海站",
       "type": "演唱会节点",
       "confidence": "中",
       "score": 74,
@@ -10603,15 +10512,15 @@
         "巡回"
       ],
       "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：UNKNOWN 袁一琦2026个人巡回演唱会-上海站",
+      "event": "猫眼演出出现相关节点：石凯「时空乐园」2026巡回演唱会-上海站",
       "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
       "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-08-05T07:17:35.955Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "collectedAt": "2026-08-07T05:56:45.878Z",
+      "firstSeenAt": "2026-08-07T05:56:45.878Z",
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "8314f280dd9e",
@@ -10708,36 +10617,6 @@
       "lastSeenAt": "2026-08-02T10:04:39.360Z"
     },
     {
-      "id": "927b4b6da5a8",
-      "title": "2026郭静「刚刚好的自己」演唱会上海站",
-      "type": "演唱会节点",
-      "confidence": "中",
-      "score": 73,
-      "date": "2026.08.29",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 猫眼演出",
-      "stage": "开票窗口期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
-      "event": "猫眼演出出现相关节点：2026郭静「刚刚好的自己」演唱会上海站",
-      "opportunity": "场馆周边、城市欢迎屏、商圈打卡、品牌联动和粉丝二现场氛围都可以切入。",
-      "next": "看到这个演出节点，如果你们需要城市氛围或场馆周边曝光，我们可以先整理一版可执行点位。",
-      "source": "https://show.maoyan.com/",
-      "sourceName": "猫眼演出",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
-      "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
-    },
-    {
       "id": "07e86ae41b45",
       "title": "6个消费暗号，回答什么更重要｜知萌Q2消费趋势季报",
       "type": "二次元/IP活动",
@@ -10765,9 +10644,9 @@
       "source": "https://www.adquan.com/article/362423",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-05T10:43:52.314Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "5bd88a052feb",
@@ -10797,9 +10676,9 @@
       "source": "https://www.adquan.com/article/362321",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-03T04:22:46.620Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "3d09a8c0ffc6",
@@ -10827,9 +10706,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "73be3dd44253",
@@ -10859,9 +10738,9 @@
       "source": "https://www.adquan.com/article/362419",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-05T10:43:52.314Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "577d90d8467a",
@@ -10891,9 +10770,9 @@
       "source": "https://www.adquan.com/article/362419",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-05T10:43:52.314Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "cb3fbec09c7d",
@@ -10983,9 +10862,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "b70dbe3fe16d",
@@ -11013,9 +10892,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "6f6915790bd2",
@@ -11043,9 +10922,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-04T10:47:12.421Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "dab5d2e4cb1c",
@@ -11076,9 +10955,9 @@
       "source": "https://www.1905.com/news/",
       "sourceName": "1905电影网",
       "sourceKind": "影视宣发",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "6d241bfa670b",
@@ -11106,9 +10985,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-08-05T03:52:12.730Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "30e8c746012c",
@@ -11136,9 +11015,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-08-07T03:42:37.525Z",
+      "collectedAt": "2026-08-07T05:56:45.878Z",
       "firstSeenAt": "2026-07-31T13:13:26.662Z",
-      "lastSeenAt": "2026-08-07T03:42:37.525Z"
+      "lastSeenAt": "2026-08-07T05:56:45.878Z"
     },
     {
       "id": "8c7b648372ab",
@@ -11199,6 +11078,36 @@
       "collectedAt": "2026-08-04T13:14:54.537Z",
       "firstSeenAt": "2026-08-02T07:08:55.302Z",
       "lastSeenAt": "2026-08-04T13:14:54.537Z"
+    },
+    {
+      "id": "f9e047d16757",
+      "title": "古风沉浸式戏腔歌曲迷你互动体验/含戏服",
+      "type": "线下活动窗口",
+      "confidence": "中",
+      "score": 72,
+      "date": "2026.08.05 - 2026.08.30",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 猫眼演出",
+      "stage": "开票窗口期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "游戏"
+      ],
+      "object": "艺人项目方、粉丝站、本地商圈、品牌合作方",
+      "event": "猫眼演出出现相关节点：古风沉浸式戏腔歌曲迷你互动体验/含戏服",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://show.maoyan.com/",
+      "sourceName": "猫眼演出",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-08-03T07:59:25.447Z",
+      "firstSeenAt": "2026-07-24T10:26:09.830Z",
+      "lastSeenAt": "2026-08-03T07:59:25.447Z"
     }
   ]
 }
