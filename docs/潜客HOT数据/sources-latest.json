@@ -16,10 +16,10 @@
     "tier": "T1",
     "kind": "票务平台",
     "url": "https://www.damai.cn/",
-    "ok": true,
-    "status": 200,
-    "error": "",
-    "candidateCount": 1
+    "ok": false,
+    "status": 500,
+    "error": "HTTP 500",
+    "candidateCount": 0
   },
   {
     "id": "showstart",
@@ -30,7 +30,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 11
+    "candidateCount": 12
   },
   {
     "id": "bilibili-show",
@@ -63,7 +63,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 30
+    "candidateCount": 27
   },
   {
     "id": "socialbeta",
@@ -74,7 +74,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 7
+    "candidateCount": 5
   },
   {
     "id": "digitaling",
@@ -96,7 +96,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 4
+    "candidateCount": 3
   },
   {
     "id": "prnasia",
@@ -107,7 +107,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 9
+    "candidateCount": 13
   },
   {
     "id": "sina-ent",
@@ -129,6 +129,6 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 26
+    "candidateCount": 28
   }
 ]
