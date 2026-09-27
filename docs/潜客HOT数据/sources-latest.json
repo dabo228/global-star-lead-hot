@@ -83,8 +83,8 @@
     "kind": "品牌营销",
     "url": "https://www.digitaling.com/",
     "ok": false,
-    "status": 0,
-    "error": "请求超时",
+    "status": 503,
+    "error": "HTTP 503",
     "candidateCount": 0
   },
   {
@@ -96,7 +96,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 4
+    "candidateCount": 5
   },
   {
     "id": "prnasia",
@@ -104,10 +104,10 @@
     "tier": "T1.5",
     "kind": "品牌公关",
     "url": "https://www.prnasia.com/",
-    "ok": true,
-    "status": 200,
-    "error": "",
-    "candidateCount": 5
+    "ok": false,
+    "status": 0,
+    "error": "请求超时",
+    "candidateCount": 0
   },
   {
     "id": "sina-ent",
@@ -118,7 +118,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 3
+    "candidateCount": 2
   },
   {
     "id": "1905-news",
