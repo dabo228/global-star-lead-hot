@@ -8,7 +8,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 46
+    "candidateCount": 45
   },
   {
     "id": "damai",
@@ -30,7 +30,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 7
+    "candidateCount": 8
   },
   {
     "id": "bilibili-show",
@@ -82,10 +82,10 @@
     "tier": "T1.5",
     "kind": "品牌营销",
     "url": "https://www.digitaling.com/",
-    "ok": true,
-    "status": 200,
-    "error": "",
-    "candidateCount": 2
+    "ok": false,
+    "status": 0,
+    "error": "请求超时",
+    "candidateCount": 0
   },
   {
     "id": "meihua",
@@ -118,7 +118,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 2
+    "candidateCount": 3
   },
   {
     "id": "1905-news",
