@@ -8,7 +8,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 45
+    "candidateCount": 47
   },
   {
     "id": "damai",
@@ -63,7 +63,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 9
+    "candidateCount": 10
   },
   {
     "id": "socialbeta",
@@ -74,7 +74,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 8
+    "candidateCount": 7
   },
   {
     "id": "digitaling",
@@ -82,10 +82,10 @@
     "tier": "T1.5",
     "kind": "品牌营销",
     "url": "https://www.digitaling.com/",
-    "ok": false,
-    "status": 503,
-    "error": "HTTP 503",
-    "candidateCount": 0
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 2
   },
   {
     "id": "meihua",
@@ -96,7 +96,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 5
+    "candidateCount": 3
   },
   {
     "id": "prnasia",
@@ -104,10 +104,10 @@
     "tier": "T1.5",
     "kind": "品牌公关",
     "url": "https://www.prnasia.com/",
-    "ok": false,
-    "status": 0,
-    "error": "请求超时",
-    "candidateCount": 0
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 6
   },
   {
     "id": "sina-ent",
