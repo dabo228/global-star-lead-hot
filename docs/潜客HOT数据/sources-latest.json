@@ -8,7 +8,7 @@
     "ok": true,
     "status": 200,
     "error": "",
-    "candidateCount": 54
+    "candidateCount": 55
   },
   {
     "id": "damai",
@@ -16,10 +16,10 @@
     "tier": "T1",
     "kind": "票务平台",
     "url": "https://www.damai.cn/",
-    "ok": false,
-    "status": 500,
-    "error": "HTTP 500",
-    "candidateCount": 0
+    "ok": true,
+    "status": 200,
+    "error": "",
+    "candidateCount": 1
   },
   {
     "id": "showstart",
@@ -93,10 +93,10 @@
     "tier": "T1.5",
     "kind": "品牌营销",
     "url": "https://www.meihua.info/",
-    "ok": true,
-    "status": 200,
-    "error": "",
-    "candidateCount": 2
+    "ok": false,
+    "status": 0,
+    "error": "请求超时",
+    "candidateCount": 0
   },
   {
     "id": "prnasia",
