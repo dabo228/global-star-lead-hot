@@ -1,20 +1,20 @@
 {
   "schemaVersion": 2,
   "name": "全球星榜潜客 HOT",
-  "date": "2026-11-09",
-  "updatedAt": "2026-11-09T13:15:57.920Z",
-  "updatedAtText": "2026/11/09 21:15",
+  "date": "2026-11-10",
+  "updatedAt": "2026-11-09T18:38:48.282Z",
+  "updatedAtText": "2026/11/10 02:38",
   "summary": {
     "total": 30,
     "selectedTotal": 30,
-    "allTotal": 277,
-    "currentTotal": 81,
-    "newToday": 22,
+    "allTotal": 276,
+    "currentTotal": 75,
+    "newToday": 0,
     "high": 0,
     "mid": 30,
     "low": 0,
     "sourceCount": 12,
-    "healthySourceCount": 10,
+    "healthySourceCount": 9,
     "historyDays": 7
   },
   "sources": [
@@ -35,10 +35,10 @@
       "tier": "T1",
       "kind": "票务平台",
       "url": "https://www.damai.cn/",
-      "ok": true,
-      "status": 200,
-      "error": "",
-      "candidateCount": 1
+      "ok": false,
+      "status": 500,
+      "error": "HTTP 500",
+      "candidateCount": 0
     },
     {
       "id": "showstart",
@@ -82,7 +82,7 @@
       "ok": true,
       "status": 200,
       "error": "",
-      "candidateCount": 20
+      "candidateCount": 19
     },
     {
       "id": "socialbeta",
@@ -115,7 +115,7 @@
       "ok": true,
       "status": 200,
       "error": "",
-      "candidateCount": 6
+      "candidateCount": 4
     },
     {
       "id": "prnasia",
@@ -126,7 +126,7 @@
       "ok": true,
       "status": 200,
       "error": "",
-      "candidateCount": 9
+      "candidateCount": 5
     },
     {
       "id": "sina-ent",
@@ -343,9 +343,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-27T05:46:54.273Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "9fb6651e969b",
@@ -375,9 +375,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-29T11:02:35.431Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "e7f6930af6e7",
@@ -565,9 +565,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-31T10:32:20.344Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "e70717561cba",
@@ -597,9 +597,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "3b8a8df4a1b0",
@@ -628,9 +628,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-05T07:29:55.007Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "3713064c9f13",
@@ -660,9 +660,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-05T12:40:57.367Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "0c9537a9ab18",
@@ -691,9 +691,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-24T12:35:49.568Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "ce0411d7ce2e",
@@ -753,9 +753,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T12:22:49.279Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "ca80f0c86f48",
@@ -784,9 +784,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-07T06:41:22.872Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "cb4218b14408",
@@ -816,9 +816,9 @@
       "source": "https://www.adquan.com/article/365363",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-09T13:15:57.920Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "907947c7b960",
@@ -1125,9 +1125,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-27T05:46:54.273Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "9fb6651e969b",
@@ -1157,9 +1157,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-29T11:02:35.431Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "d920a741c80e",
@@ -1189,9 +1189,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-31T10:32:20.344Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "e70717561cba",
@@ -1221,9 +1221,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "3b8a8df4a1b0",
@@ -1252,9 +1252,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-05T07:29:55.007Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "3713064c9f13",
@@ -1284,9 +1284,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-05T12:40:57.367Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "0c9537a9ab18",
@@ -1315,9 +1315,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-24T12:35:49.568Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "067b5c31c697",
@@ -1345,9 +1345,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T12:22:49.279Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "ca80f0c86f48",
@@ -1376,9 +1376,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-07T06:41:22.872Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "cb4218b14408",
@@ -1408,9 +1408,9 @@
       "source": "https://www.adquan.com/article/365363",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-09T13:15:57.920Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "10c09c20484e",
@@ -1441,9 +1441,9 @@
       "source": "https://www.adquan.com/article/365304",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-09T13:15:57.920Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "6f1a2501b5d4",
@@ -1474,9 +1474,9 @@
       "source": "https://www.adquan.com/article/365358",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-09T13:15:57.920Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "80d2e570a9be",
@@ -1507,9 +1507,9 @@
       "source": "https://www.adquan.com/article/362748",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-09T13:15:57.920Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "717928adfa74",
@@ -1538,9 +1538,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-20T09:34:56.507Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "eeea296dbcc4",
@@ -1569,9 +1569,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-04T07:03:29.345Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "8a831263f9b9",
@@ -1600,9 +1600,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-29T11:02:35.431Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "379e4d324022",
@@ -1630,9 +1630,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-09T11:28:14.344Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "70ac47d8d2ee",
@@ -1660,39 +1660,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-09T13:15:57.920Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
-      "id": "b2b3db31812c",
-      "title": "[{\"name\":\"演唱会\",\"id\":\"1\"},{\"name\":\"话剧歌剧\",\"id\":\"3\"},{\"name\":\"体育比赛\",\"id\":\"6\"},{\"name\":\"儿童亲子\",\"id\":\"100\"}]",
-      "type": "线下活动窗口",
-      "confidence": "低",
-      "score": 68,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1 大麦",
-      "stage": "演出节点期",
-      "query": "演唱会 巡回 开票 预售",
-      "signals": [
-        "演唱会节点",
-        "演唱会"
-      ],
-      "object": "艺人项目方、演出主办、粉丝站、本地品牌",
-      "event": "大麦出现相关节点：[{\"name\":\"演唱会\",\"id\":\"1\"},{\"name\":\"话剧歌剧\",\"id\":\"3\"},{\"name\":\"体育比赛\",\"id\":\"6\"},{\"name\":\"儿童亲子\",\"id\":\"100\"}]",
-      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
-      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
-      "source": "https://www.damai.cn/",
-      "sourceName": "大麦",
-      "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-07-10T01:00:03.106Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "98cf56732ab4",
@@ -1721,9 +1691,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-07T06:41:22.872Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "5d8ff7a56818",
@@ -1752,9 +1722,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-03T12:14:32.881Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "13eb82f0545d",
@@ -1782,9 +1752,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-22T05:33:54.951Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "28de488475f9",
@@ -1813,9 +1783,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "55045581a132",
@@ -1843,9 +1813,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T12:22:49.279Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "b141e9e9556e",
@@ -1873,9 +1843,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-09-04T08:59:50.011Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "4b718b051851",
@@ -1904,9 +1874,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-05T07:29:55.007Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "59e1b6748fc0",
@@ -1934,9 +1904,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T12:22:49.279Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "c1bca0f9b03a",
@@ -1964,9 +1934,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-23T09:30:11.871Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "b19c4bfb070e",
@@ -1995,9 +1965,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-05T07:29:55.007Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "0d62598ba324",
@@ -2025,9 +1995,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "7296ea73b85d",
@@ -2056,9 +2026,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "196a117a9082",
@@ -2087,9 +2057,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "150e2b08ca34",
@@ -2118,9 +2088,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-27T09:59:10.405Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "fce3cd93db53",
@@ -2150,9 +2120,9 @@
       "source": "https://socialbeta.com/article/111483",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-09T13:15:57.920Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "c4df90af1e7f",
@@ -2180,9 +2150,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-09-30T06:06:31.276Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "5fa3cc2e2373",
@@ -2210,9 +2180,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "9ef1b024f628",
@@ -2240,9 +2210,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-09-17T05:34:16.181Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "35f35a1344e2",
@@ -2270,9 +2240,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-01T06:58:32.378Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "7870532a621e",
@@ -2300,9 +2270,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-09T07:22:00.829Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "f05d4ec5e613",
@@ -2330,9 +2300,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-05T12:40:57.367Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "ea7b6a5e3715",
@@ -2360,9 +2330,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-08-23T02:17:14.308Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "c0a7011e8838",
@@ -2390,9 +2360,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-09-29T14:47:02.618Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "8bdd6caa2606",
@@ -2420,9 +2390,9 @@
       "source": "https://show.bilibili.com/",
       "sourceName": "B站会员购",
       "sourceKind": "二次元/IP活动",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "1efbfc238591",
@@ -2450,9 +2420,9 @@
       "source": "https://bw.bilibili.com/",
       "sourceName": "Bilibili World",
       "sourceKind": "二次元/IP活动",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "badac41406ce",
@@ -2480,9 +2450,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-08-23T02:17:14.308Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "9cf46877fc3f",
@@ -2512,9 +2482,9 @@
       "source": "https://socialbeta.com/article/111481",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-08T11:28:02.809Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "da886261d180",
@@ -2544,9 +2514,9 @@
       "source": "https://www.adquan.com/article/365332",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-09T07:22:00.829Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "eb6bdf746bcd",
@@ -2576,9 +2546,9 @@
       "source": "https://socialbeta.com/campaign/28921",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "1f97e21a3170",
@@ -2608,9 +2578,9 @@
       "source": "https://www.adquan.com/",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-09T07:22:00.829Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "bfc8f355a09e",
@@ -2640,9 +2610,9 @@
       "source": "https://socialbeta.com/campaign/28932",
       "sourceName": "SocialBeta",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T12:22:49.279Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "35e708c0467e",
@@ -2670,9 +2640,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-04T07:03:29.345Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "fdbb06d9af80",
@@ -2700,9 +2670,9 @@
       "source": "https://www.showstart.com/",
       "sourceName": "秀动",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "28e9d5f0b3a1",
@@ -2731,9 +2701,9 @@
       "source": "https://www.adquan.com/article/365291",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "4247a68292f5",
@@ -2761,9 +2731,9 @@
       "source": "https://www.showstart.com/",
       "sourceName": "秀动",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-07-10T01:27:48.564Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "f546670dd708",
@@ -2792,9 +2762,9 @@
       "source": "https://www.prnasia.com/mkt_events/sn_1069.shtml",
       "sourceName": "美通社亚洲",
       "sourceKind": "品牌公关",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "567fff4708ad",
@@ -2822,9 +2792,9 @@
       "source": "https://weibo.com/1642591402/NwWAguBQ6",
       "sourceName": "新浪娱乐",
       "sourceKind": "娱乐资讯",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "fdad31f03205",
@@ -2849,12 +2819,12 @@
       "event": "美通社亚洲出现相关节点：2026蔡司全球创新峰会柏林收官，AI成全场主线",
       "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
       "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/lightnews/lightnews-1-77-100753.shtml",
+      "source": "https://www.prnasia.com/story/555434-1.shtml",
       "sourceName": "美通社亚洲",
       "sourceKind": "品牌公关",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-09T13:15:57.920Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "28ff1288df8a",
@@ -2882,9 +2852,9 @@
       "source": "https://www.adquan.com/article/362289",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-03T07:21:24.111Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "74c2fdc67c1b",
@@ -2912,8 +2882,548 @@
       "source": "https://www.adquan.com/article/364985",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T07:28:46.768Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "1b1727ddb490",
+      "title": "不堆参数，以“不敢出发”的情绪切入，用克制影像把大空间升维成精神容器，让品牌更有温度。",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026/11/05",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "线下执行期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "品牌"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：不堆参数，以“不敢出发”的情绪切入，用克制影像把大空间升维成精神容器，让品牌更有温度。",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-11-06T07:28:46.768Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "f2c28ccfd303",
+      "title": "成毅官宣微博跨年开幕官",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 新浪娱乐",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "官宣"
+      ],
+      "object": "艺人项目方、片方、平台宣发、粉丝组织",
+      "event": "新浪娱乐出现相关节点：成毅官宣微博跨年开幕官",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://weibo.com/1642591402/Nx3QNmtNr",
+      "sourceName": "新浪娱乐",
+      "sourceKind": "娱乐资讯",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "a0aded53e30a",
+      "title": "创维光伏150万找海外社媒代运营公司",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026/10/28",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "品牌"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：创维光伏150万找海外社媒代运营公司",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/article/365084",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-10-28T10:45:34.960Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "562afbe03f27",
+      "title": "对于一家想要深耕中国市场的海外IP企业来说，在商业狂奔的同时，读懂本土舆论底线、守住价值红线，才是接下来应该且必须直面的课题。",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026/11/09",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "机会观察期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "IP"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：对于一家想要深耕中国市场的海外IP企业来说，在商业狂奔的同时，读懂本土舆论底线、守住价值红线，才是接下来应该且必须直面的课题。",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://www.adquan.com/",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-11-09T13:15:57.920Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "9f7bab6305b4",
+      "title": "分众前三季度净利润增长5.55%",
+      "type": "二次元/IP活动",
+      "confidence": "低",
+      "score": 64,
+      "date": "5.55",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "官宣扩散期",
+      "query": "漫展 展会 IP 国漫",
+      "signals": [
+        "二次元/IP活动",
+        "IP"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：分众前三季度净利润增长5.55%",
+      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
+      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
+      "source": "https://www.adquan.com/article/365340",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-11-09T13:15:57.920Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "b6ea8780e22e",
+      "title": "广告创意 | 数字营销",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：广告创意 | 数字营销",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-11-06T07:28:46.768Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "ad24c8a35910",
+      "title": "基于对全球 3000 多名记者的洞察，我们将系统解析成功推介的核心策略...",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：基于对全球 3000 多名记者的洞察，我们将系统解析成功推介的核心策略...",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "be570a4e4d9d",
+      "title": "建立稳定、规范的海外社交媒体内容运营及账号管理机制，持续提升品牌曝光、内容观看、用户互动、粉丝增长及有效线索。",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026/10/28",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "品牌"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：建立稳定、规范的海外社交媒体内容运营及账号管理机制，持续提升品牌曝光、内容观看、用户互动、粉丝增长及有效线索。",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-10-28T10:45:34.960Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "174ed4b501e9",
+      "title": "可口可乐把媒介拆成三块：宏盟拿北美、WPP守全球，改写版图的不是比稿，是一条「客户冲突条款」",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：可口可乐把媒介拆成三块：宏盟拿北美、WPP守全球，改写版图的不是比稿，是一条「客户冲突条款」",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/article/365248",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-11-06T07:28:46.768Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "c56f5dff4d83",
+      "title": "肯德基联动复联5，不过合作的是反派......",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 梅花网",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "梅花网出现相关节点：肯德基联动复联5，不过合作的是反派......",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.meihua.info/shots/7081122731459584",
+      "sourceName": "梅花网",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-11-07T06:41:22.872Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "355baf6f9ea6",
+      "title": "美通社官网-PR_Newswire-新闻稿发布-全球领先的企业新闻稿发布机构",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：美通社官网-PR_Newswire-新闻稿发布-全球领先的企业新闻稿发布机构",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "ef466c836ee0",
+      "title": "美团外卖暑期呈现｜小候鸟的食堂",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 梅花网",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "梅花网出现相关节点：美团外卖暑期呈现｜小候鸟的食堂",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.meihua.info/shots/6968972010834944",
+      "sourceName": "梅花网",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-10-27T14:19:03.364Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "9dfce2e4d0e0",
+      "title": "奈雪的茶官宣了，厉娜！",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "2026-11-07",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 SocialBeta",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "官宣"
+      ],
+      "object": "品牌市场部、代理公司、内容营销团队",
+      "event": "SocialBeta出现相关节点：奈雪的茶官宣了，厉娜！",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://socialbeta.com/campaign/28927",
+      "sourceName": "SocialBeta",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-11-07T06:41:22.872Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "5a7c6882d52a",
+      "title": "珀莱雅携手易烊千玺：年轻升级，乐此不疲",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 梅花网",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "梅花网出现相关节点：珀莱雅携手易烊千玺：年轻升级，乐此不疲",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.meihua.info/shots/7049916233499648",
+      "sourceName": "梅花网",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-11-07T16:56:45.893Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "8b93d78ebd74",
+      "title": "天猫 x 美的：一句「再吃一口」，藏着温柔的心意",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 梅花网",
+      "stage": "机会观察期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "广告"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "梅花网出现相关节点：天猫 x 美的：一句「再吃一口」，藏着温柔的心意",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.meihua.info/shots/7055519904728064",
+      "sourceName": "梅花网",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-10-22T05:33:54.951Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "db2746e8c802",
+      "title": "语言 (Languages)",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 64,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 美通社亚洲",
+      "stage": "官宣扩散期",
+      "query": "品牌 官宣 代言 全球",
+      "signals": [
+        "品牌宣发",
+        "全球"
+      ],
+      "object": "品牌市场部、公关公司、出海项目团队",
+      "event": "美通社亚洲出现相关节点：语言 (Languages)",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.prnasia.com/",
+      "sourceName": "美通社亚洲",
+      "sourceKind": "品牌公关",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-07-10T01:49:01.962Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "b82b7288b519",
+      "title": "一城一丹宁：Levi's® 三城快闪巡展",
+      "type": "品牌宣发",
+      "confidence": "低",
+      "score": 62,
+      "date": "2026/11/05",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1.5 广告门",
+      "stage": "线下执行期",
+      "query": "快闪 打卡 门店 商圈",
+      "signals": [
+        "线下活动窗口",
+        "快闪"
+      ],
+      "object": "品牌市场部、代理公司、公关公司",
+      "event": "广告门出现相关节点：一城一丹宁：Levi's® 三城快闪巡展",
+      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
+      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
+      "source": "https://www.adquan.com/article/365263",
+      "sourceName": "广告门",
+      "sourceKind": "品牌营销",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
+      "firstSeenAt": "2026-11-06T07:28:46.768Z",
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
+    },
+    {
+      "id": "b2b3db31812c",
+      "title": "[{\"name\":\"演唱会\",\"id\":\"1\"},{\"name\":\"话剧歌剧\",\"id\":\"3\"},{\"name\":\"体育比赛\",\"id\":\"6\"},{\"name\":\"儿童亲子\",\"id\":\"100\"}]",
+      "type": "线下活动窗口",
+      "confidence": "低",
+      "score": 68,
+      "date": "待确认",
+      "departments": [
+        "销售",
+        "营销",
+        "媒介"
+      ],
+      "sourceTier": "T1 大麦",
+      "stage": "演出节点期",
+      "query": "演唱会 巡回 开票 预售",
+      "signals": [
+        "演唱会节点",
+        "演唱会"
+      ],
+      "object": "艺人项目方、演出主办、粉丝站、本地品牌",
+      "event": "大麦出现相关节点：[{\"name\":\"演唱会\",\"id\":\"1\"},{\"name\":\"话剧歌剧\",\"id\":\"3\"},{\"name\":\"体育比赛\",\"id\":\"6\"},{\"name\":\"儿童亲子\",\"id\":\"100\"}]",
+      "opportunity": "可围绕快闪、门店、商圈和城市路线做导流曝光。",
+      "next": "这个线下节点可以先按城市和人流动线筛一版户外资源。",
+      "source": "https://www.damai.cn/",
+      "sourceName": "大麦",
+      "sourceKind": "票务平台",
+      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "firstSeenAt": "2026-07-10T01:00:03.106Z",
       "lastSeenAt": "2026-11-09T13:15:57.920Z"
     },
     {
@@ -2947,246 +3457,6 @@
       "lastSeenAt": "2026-11-09T13:15:57.920Z"
     },
     {
-      "id": "1b1727ddb490",
-      "title": "不堆参数，以“不敢出发”的情绪切入，用克制影像把大空间升维成精神容器，让品牌更有温度。",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026/11/05",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "线下执行期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "品牌"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：不堆参数，以“不敢出发”的情绪切入，用克制影像把大空间升维成精神容器，让品牌更有温度。",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
-      "id": "f2c28ccfd303",
-      "title": "成毅官宣微博跨年开幕官",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 新浪娱乐",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "官宣"
-      ],
-      "object": "艺人项目方、片方、平台宣发、粉丝组织",
-      "event": "新浪娱乐出现相关节点：成毅官宣微博跨年开幕官",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://weibo.com/1642591402/Nx3QNmtNr",
-      "sourceName": "新浪娱乐",
-      "sourceKind": "娱乐资讯",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
-      "id": "a0aded53e30a",
-      "title": "创维光伏150万找海外社媒代运营公司",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026/10/28",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "品牌"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：创维光伏150万找海外社媒代运营公司",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/article/365084",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-10-28T10:45:34.960Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
-      "id": "562afbe03f27",
-      "title": "对于一家想要深耕中国市场的海外IP企业来说，在商业狂奔的同时，读懂本土舆论底线、守住价值红线，才是接下来应该且必须直面的课题。",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026/11/09",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "机会观察期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "IP"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：对于一家想要深耕中国市场的海外IP企业来说，在商业狂奔的同时，读懂本土舆论底线、守住价值红线，才是接下来应该且必须直面的课题。",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://www.adquan.com/",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-11-09T13:15:57.920Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
-      "id": "9f7bab6305b4",
-      "title": "分众前三季度净利润增长5.55%",
-      "type": "二次元/IP活动",
-      "confidence": "低",
-      "score": 64,
-      "date": "5.55",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "官宣扩散期",
-      "query": "漫展 展会 IP 国漫",
-      "signals": [
-        "二次元/IP活动",
-        "IP"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：分众前三季度净利润增长5.55%",
-      "opportunity": "适合做展会前预热、现场导流、IP周年氛围、商圈屏和粉丝打卡。",
-      "next": "这个节点适合做展会和IP氛围，可以先看主会场、商圈和粉丝动线附近资源。",
-      "source": "https://www.adquan.com/article/365340",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-11-09T13:15:57.920Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
-      "id": "b6ea8780e22e",
-      "title": "广告创意 | 数字营销",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：广告创意 | 数字营销",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
-      "id": "ad24c8a35910",
-      "title": "基于对全球 3000 多名记者的洞察，我们将系统解析成功推介的核心策略...",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：基于对全球 3000 多名记者的洞察，我们将系统解析成功推介的核心策略...",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
-      "id": "be570a4e4d9d",
-      "title": "建立稳定、规范的海外社交媒体内容运营及账号管理机制，持续提升品牌曝光、内容观看、用户互动、粉丝增长及有效线索。",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "2026/10/28",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "品牌"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：建立稳定、规范的海外社交媒体内容运营及账号管理机制，持续提升品牌曝光、内容观看、用户互动、粉丝增长及有效线索。",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-10-28T10:45:34.960Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
       "id": "3fc6f1f4d52f",
       "title": "巨量引擎取消返点：所有广告代理商，未来都是服务商",
       "type": "品牌宣发",
@@ -3217,36 +3487,6 @@
       "lastSeenAt": "2026-11-09T13:15:57.920Z"
     },
     {
-      "id": "174ed4b501e9",
-      "title": "可口可乐把媒介拆成三块：宏盟拿北美、WPP守全球，改写版图的不是比稿，是一条「客户冲突条款」",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：可口可乐把媒介拆成三块：宏盟拿北美、WPP守全球，改写版图的不是比稿，是一条「客户冲突条款」",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/article/365248",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
       "id": "c17df4b47298",
       "title": "绿色机场・新能源海外画册设计",
       "type": "品牌宣发",
@@ -3274,66 +3514,6 @@
       "sourceKind": "品牌营销",
       "collectedAt": "2026-11-09T13:15:57.920Z",
       "firstSeenAt": "2026-10-23T05:31:58.391Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
-      "id": "355baf6f9ea6",
-      "title": "美通社官网-PR_Newswire-新闻稿发布-全球领先的企业新闻稿发布机构",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：美通社官网-PR_Newswire-新闻稿发布-全球领先的企业新闻稿发布机构",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
-      "id": "9dfce2e4d0e0",
-      "title": "奈雪的茶官宣了，厉娜！",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 SocialBeta",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "官宣"
-      ],
-      "object": "品牌市场部、代理公司、内容营销团队",
-      "event": "SocialBeta出现相关节点：奈雪的茶官宣了，厉娜！",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://socialbeta.com/campaign/28927",
-      "sourceName": "SocialBeta",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-11-07T06:41:22.872Z",
       "lastSeenAt": "2026-11-09T13:15:57.920Z"
     },
     {
@@ -3487,36 +3667,6 @@
       "lastSeenAt": "2026-11-09T13:15:57.920Z"
     },
     {
-      "id": "db2746e8c802",
-      "title": "语言 (Languages)",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 美通社亚洲",
-      "stage": "官宣扩散期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "全球"
-      ],
-      "object": "品牌市场部、公关公司、出海项目团队",
-      "event": "美通社亚洲出现相关节点：语言 (Languages)",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.prnasia.com/",
-      "sourceName": "美通社亚洲",
-      "sourceKind": "品牌公关",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-07-10T01:49:01.962Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
       "id": "341c5dbe45dc",
       "title": "阿尔斯通亮相2026中国国际城市轨道交通展览会暨CAMET轨道交通创新大会",
       "type": "品牌宣发",
@@ -3544,36 +3694,6 @@
       "sourceKind": "品牌公关",
       "collectedAt": "2026-11-09T13:15:57.920Z",
       "firstSeenAt": "2026-11-09T13:15:57.920Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
-    },
-    {
-      "id": "b82b7288b519",
-      "title": "一城一丹宁：Levi's® 三城快闪巡展",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 62,
-      "date": "2026/11/05",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 广告门",
-      "stage": "线下执行期",
-      "query": "快闪 打卡 门店 商圈",
-      "signals": [
-        "线下活动窗口",
-        "快闪"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "广告门出现相关节点：一城一丹宁：Levi's® 三城快闪巡展",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.adquan.com/article/365263",
-      "sourceName": "广告门",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
-      "firstSeenAt": "2026-11-06T07:28:46.768Z",
       "lastSeenAt": "2026-11-09T13:15:57.920Z"
     },
     {
@@ -4857,36 +4977,6 @@
       "lastSeenAt": "2026-11-07T16:56:45.893Z"
     },
     {
-      "id": "5a7c6882d52a",
-      "title": "珀莱雅携手易烊千玺：年轻升级，乐此不疲",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 梅花网",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "梅花网出现相关节点：珀莱雅携手易烊千玺：年轻升级，乐此不疲",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.meihua.info/shots/7049916233499648",
-      "sourceName": "梅花网",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-07T16:56:45.893Z",
-      "firstSeenAt": "2026-11-07T16:56:45.893Z",
-      "lastSeenAt": "2026-11-07T16:56:45.893Z"
-    },
-    {
       "id": "60b663837639",
       "title": "140届广交会闭幕：境外采购商到会人数创新高，彰显全球贸易信心",
       "type": "品牌宣发",
@@ -5306,36 +5396,6 @@
       "source": "https://www.prnasia.com/story/555215-1.shtml",
       "sourceName": "美通社亚洲",
       "sourceKind": "品牌公关",
-      "collectedAt": "2026-11-07T06:41:22.872Z",
-      "firstSeenAt": "2026-11-07T06:41:22.872Z",
-      "lastSeenAt": "2026-11-07T06:41:22.872Z"
-    },
-    {
-      "id": "c56f5dff4d83",
-      "title": "肯德基联动复联5，不过合作的是反派......",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 梅花网",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "梅花网出现相关节点：肯德基联动复联5，不过合作的是反派......",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.meihua.info/shots/7081122731459584",
-      "sourceName": "梅花网",
-      "sourceKind": "品牌营销",
       "collectedAt": "2026-11-07T06:41:22.872Z",
       "firstSeenAt": "2026-11-07T06:41:22.872Z",
       "lastSeenAt": "2026-11-07T06:41:22.872Z"
@@ -5793,36 +5853,6 @@
       "collectedAt": "2026-11-06T15:50:55.827Z",
       "firstSeenAt": "2026-11-03T18:33:48.353Z",
       "lastSeenAt": "2026-11-06T15:50:55.827Z"
-    },
-    {
-      "id": "8b93d78ebd74",
-      "title": "天猫 x 美的：一句「再吃一口」，藏着温柔的心意",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 梅花网",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "梅花网出现相关节点：天猫 x 美的：一句「再吃一口」，藏着温柔的心意",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.meihua.info/shots/7055519904728064",
-      "sourceName": "梅花网",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-06T12:22:49.279Z",
-      "firstSeenAt": "2026-10-22T05:33:54.951Z",
-      "lastSeenAt": "2026-11-06T12:22:49.279Z"
     },
     {
       "id": "1f688df2f2e1",
@@ -7197,36 +7227,6 @@
       "sourceKind": "品牌营销",
       "collectedAt": "2026-11-05T12:40:57.367Z",
       "firstSeenAt": "2026-11-04T18:45:14.176Z",
-      "lastSeenAt": "2026-11-05T12:40:57.367Z"
-    },
-    {
-      "id": "ef466c836ee0",
-      "title": "美团外卖暑期呈现｜小候鸟的食堂",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 梅花网",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "梅花网出现相关节点：美团外卖暑期呈现｜小候鸟的食堂",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.meihua.info/shots/6968972010834944",
-      "sourceName": "梅花网",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-05T12:40:57.367Z",
-      "firstSeenAt": "2026-10-27T14:19:03.364Z",
       "lastSeenAt": "2026-11-05T12:40:57.367Z"
     },
     {
@@ -9510,36 +9510,6 @@
       "collectedAt": "2026-11-02T20:51:07.712Z",
       "firstSeenAt": "2026-11-02T18:09:03.648Z",
       "lastSeenAt": "2026-11-02T20:51:07.712Z"
-    },
-    {
-      "id": "8a2ad9282ca2",
-      "title": "PlayStation 携手 LISA 推出限量联名手柄",
-      "type": "品牌宣发",
-      "confidence": "低",
-      "score": 64,
-      "date": "待确认",
-      "departments": [
-        "销售",
-        "营销",
-        "媒介"
-      ],
-      "sourceTier": "T1.5 梅花网",
-      "stage": "机会观察期",
-      "query": "品牌 官宣 代言 全球",
-      "signals": [
-        "品牌宣发",
-        "广告"
-      ],
-      "object": "品牌市场部、代理公司、公关公司",
-      "event": "梅花网出现相关节点：PlayStation 携手 LISA 推出限量联名手柄",
-      "opportunity": "可从品牌新品、代言官宣、季度传播和海外扩散角度切入户外投放方案。",
-      "next": "看到你们近期有传播动作，如果需要把声量扩到线下或海外，我们可以先按预算做一版户外组合。",
-      "source": "https://www.meihua.info/shots/7066655837275136",
-      "sourceName": "梅花网",
-      "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-02T18:09:03.648Z",
-      "firstSeenAt": "2026-11-02T18:09:03.648Z",
-      "lastSeenAt": "2026-11-02T18:09:03.648Z"
     }
   ],
   "leads": [
@@ -9734,9 +9704,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-27T05:46:54.273Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "9fb6651e969b",
@@ -9766,9 +9736,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-29T11:02:35.431Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "e7f6930af6e7",
@@ -9956,9 +9926,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-31T10:32:20.344Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "e70717561cba",
@@ -9988,9 +9958,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T07:28:46.768Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "3b8a8df4a1b0",
@@ -10019,9 +9989,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-05T07:29:55.007Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "3713064c9f13",
@@ -10051,9 +10021,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-05T12:40:57.367Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "0c9537a9ab18",
@@ -10082,9 +10052,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-10-24T12:35:49.568Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "ce0411d7ce2e",
@@ -10144,9 +10114,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-06T12:22:49.279Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "ca80f0c86f48",
@@ -10175,9 +10145,9 @@
       "source": "https://show.maoyan.com/",
       "sourceName": "猫眼演出",
       "sourceKind": "票务平台",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-07T06:41:22.872Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "cb4218b14408",
@@ -10207,9 +10177,9 @@
       "source": "https://www.adquan.com/article/365363",
       "sourceName": "广告门",
       "sourceKind": "品牌营销",
-      "collectedAt": "2026-11-09T13:15:57.920Z",
+      "collectedAt": "2026-11-09T18:38:48.282Z",
       "firstSeenAt": "2026-11-09T13:15:57.920Z",
-      "lastSeenAt": "2026-11-09T13:15:57.920Z"
+      "lastSeenAt": "2026-11-09T18:38:48.282Z"
     },
     {
       "id": "907947c7b960",
